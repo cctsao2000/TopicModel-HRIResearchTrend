@@ -1,0 +1,1060 @@
+pName,doi
+Vol45_2021
+Sensor fusion based manipulative action recognition,10.1007/s10514-020-09943-8
+Synchronous intercept strategies for a robotic defense-intrusion game with two defenders,10.1007/s10514-020-09945-6
+The Orbiting Dubins Traveling Salesman Problem: planning inspection tours for a minehunting AUV,10.1007/s10514-020-09946-5
+Reinforcement based mobile robot path planning with improved dynamic window approach in unknown environment,10.1007/s10514-020-09947-4
+S4-SLAM: A real-time 3D LIDAR SLAM system for ground/watersurface multi-scene outdoor applications,10.1007/s10514-020-09948-3
+Autonomous quadrotor collision avoidance and destination seeking in a GPS-denied environment,10.1007/s10514-020-09949-2
+Deep reinforcement learning for quadrotor path following with adaptive velocity,10.1007/s10514-020-09951-8
+An efficient and direct method for trajectory optimization of robots constrained by contact kinematics and forces,10.1007/s10514-020-09952-7
+Trajectory adaptation of biomimetic equilibrium point for stable locomotion of a large-size hexapod robot,10.1007/s10514-020-09955-4
+Quantitative analysis of robot gesticulation behavior,10.1007/s10514-020-09958-1
+Correction to: Four aspects of building robotic systems: lessons from the Amazon Picking Challenge 2015,10.1007/s10514-020-09953-6
+Estimating boundary dynamics using robotic sensor networks with pointwise measurements,10.1007/s10514-020-09954-5
+LTA*: Local tangent based A* for optimal path planning,10.1007/s10514-020-09956-3
+An improved kinematic model for skid-steered wheeled platforms,10.1007/s10514-020-09959-0
+A hierarchical representation of behaviour supporting open ended development and progressive learning for artificial agents,10.1007/s10514-020-09960-7
+Robust circumnavigation of a heterogeneous multi-agent system,10.1007/s10514-020-09962-5
+Game tree search for minimizing detectability and maximizing visibility,10.1007/s10514-020-09963-4
+Road surface detection and differentiation considering surface damages,10.1007/s10514-020-09964-3
+A sketch is worth a thousand navigational instructions,10.1007/s10514-020-09965-2
+Deep learning applied to humanoid soccer robotics: playing without using any color information,10.1007/s10514-021-09966-9
+Reliable distribution of computational load in robot teams,10.1007/s10514-021-09967-8
+Sensorless environment stiffness and interaction force estimation for impedance control tuning in robotized interaction tasks,10.1007/s10514-021-09970-z
+Imitation learning-based framework for learning 6-D linear compliant motions,10.1007/s10514-021-09971-y
+Scale-invariant localization using quasi-semantic object landmarks,10.1007/s10514-021-09973-w
+Effect of compliance on morphological control of dynamic locomotion with HyQ,10.1007/s10514-021-09974-9
+A behavior-based framework for safe deployment of humanoid robots,10.1007/s10514-021-09978-5
+A new meta-module design for efficient reconfiguration of modular robots,10.1007/s10514-021-09977-6
+A fully distributed multi-robot navigation method without pre-allocating target positions,10.1007/s10514-021-09981-w
+Semantic visual SLAM in dynamic environment,10.1007/s10514-021-09979-4
+Sequence-based visual place recognition: a scale-space approach for boundary detection,10.1007/s10514-021-09984-7
+Transfer learning of coverage functions via invariant properties in the fourier domain,10.1007/s10514-021-09982-9
+Sensor fusion of two sonar devices for underwater 3D mapping with an AUV,10.1007/s10514-021-09986-5
+How to train your differentiable filter,10.1007/s10514-021-09990-9
+Robot-to-robot relative pose estimation using humans as markers,10.1007/s10514-021-09985-6
+A novel adaptive iterative learning control approach and human-in-the-loop control pattern for lower limb rehabilitation robot in disturbances environment,10.1007/s10514-021-09988-3
+Vol44_2020
+"Guest editorial: Special issue on robot communication challenges: real-world problems, systems, and methods",10.1007/s10514-019-09898-5
+Transmission of images by unmanned underwater vehicles,10.1007/s10514-019-09866-z
+Statistics of the distance traveled until successful connectivity for unmanned vehicles,10.1007/s10514-019-09850-7
+Optimizing multi-robot communication under bandwidth constraints,10.1007/s10514-019-09849-0
+Distributed assignment with limited communication for multi-robot multi-target tracking,10.1007/s10514-019-09856-1
+Live multicast video streaming from drones: an experimental study,10.1007/s10514-019-09851-6
+SwarmCom: an infra-red-based mobile ad-hoc network for severely constrained robots,10.1007/s10514-019-09873-0
+DVL-SLAM: sparse depth enhanced direct visual-LiDAR SLAM,10.1007/s10514-019-09881-0
+Attention-based active visual search for mobile robots,10.1007/s10514-019-09882-z
+Online learning for 3D LiDAR-based human detection: experimental analysis of point cloud clustering and classification methods,10.1007/s10514-019-09883-y
+Simultaneous planning of sampling and optimization: study on lazy evaluation and configuration free space approximation for optimal motion planning algorithm,10.1007/s10514-019-09884-x
+Asynchronous microphone arrays calibration and sound source tracking,10.1007/s10514-019-09885-w
+Model-referenced pose estimation using monocular vision for autonomous intervention tasks,10.1007/s10514-019-09886-9
+A velocity obstacles approach for autonomous landing and teleoperated robots,10.1007/s10514-019-09887-8
+Application of Lissajous curves in trajectory planning of multiple agents,10.1007/s10514-019-09888-7
+Learning quasi-periodic robot motions from demonstration,10.1007/s10514-019-09891-y
+Design of a new air pressure perception multi-cavity pneumatic-driven earthworm-like soft robot,10.1007/s10514-019-09892-x
+Robustness and efficiency insights from a mechanical coupling metric for ankle-actuated biped robots,10.1007/s10514-019-09893-w
+Guest editorial: special issue on multi-robot and multi-agent systems,10.1007/s10514-020-09908-x
+Multi-robot online sensing strategies for the construction of communication maps,10.1007/s10514-019-09862-3
+Efficient recursive distributed state estimation of hidden Markov models over unreliable networks,10.1007/s10514-019-09854-3
+Cooperative visual-inertial sensor fusion: fundamental equations and state determination in closed-form,10.1007/s10514-019-09841-8
+Gaussian process decentralized data fusion meets transfer learning in large-scale distributed cooperative perception,10.1007/s10514-018-09826-z
+SOUL: data sharing for robot swarms,10.1007/s10514-019-09855-2
+A robust localization system for multi-robot formations based on an extension of a Gaussian mixture probability hypothesis density filter,10.1007/s10514-019-09860-5
+On-board range-based relative localization for micro air vehicles in indoor leader–follower flight,10.1007/s10514-019-09843-6
+dRRT*: Scalable and informed asymptotically-optimal multi-robot motion planning,10.1007/s10514-019-09832-9
+Average case constant factor time and distance optimal multi-robot path planning in well-connected environments,10.1007/s10514-019-09858-z
+Hierarchical reinforcement learning via dynamic subspace search for multi-agent planning,10.1007/s10514-019-09871-2
+Hybrid planning and distributed iterative repair for multi-robot missions with communication losses,10.1007/s10514-019-09869-w
+Competition and cooperation in a community of autonomous agents,10.1007/s10514-019-09867-y
+Auctions for multi-robot task allocation in communication limited environments,10.1007/s10514-019-09828-5
+Automated synthesis of decentralized controllers for robot swarms from high-level temporal logic specifications,10.1007/s10514-019-09861-4
+Humans interacting with multi-robot systems: a natural affect-based approach,10.1007/s10514-019-09889-6
+Cooperative Queuing Policies for Effective Scheduling of Operator Intervention,10.1007/s10514-019-09877-w
+Distributed coverage in mobile sensor networks without location information,10.1007/s10514-019-09859-y
+CARE: Cooperative Autonomy for Resilience and Efficiency of robot teams for complete coverage of unknown environments under robot failures,10.1007/s10514-019-09870-3
+Distributed multi-target search and tracking using the PHD filter,10.1007/s10514-019-09840-9
+Adaptive target tracking with a mixed team of static and mobile guards: deployment and activation strategies,10.1007/s10514-019-09833-8
+Air-ground cooperative topometric mapping of traversable ground,10.1007/s10514-019-09872-1
+Multi-robot information driven path planning under communication constraints,10.1007/s10514-019-09890-z
+On-line object detection: a robotics challenge,10.1007/s10514-019-09894-9
+A highly stable and efficient spherical underwater robot with hybrid propulsion devices,10.1007/s10514-019-09895-8
+Adaptive force and velocity control based on intrinsic contact sensing during surface exploration of dynamic objects,10.1007/s10514-019-09896-7
+Joint optimization based on direct sparse stereo visual-inertial odometry,10.1007/s10514-019-09897-6
+Relative navigation of autonomous GPS-degraded micro air vehicles,10.1007/s10514-019-09899-4
+Graph search of a moving ground target by a UAV aided by ground sensors with local information,10.1007/s10514-019-09900-0
+Approximate Bayesian reinforcement learning based on estimation of plant,10.1007/s10514-020-09901-4
+Autonomous ballistic airdrop of objects from a small fixed-wing unmanned aerial vehicle,10.1007/s10514-020-09902-3
+Event- and time-triggered dynamic task assignments for multiple vehicles,10.1007/s10514-020-09912-1
+An informative path planning framework for UAV-based terrain monitoring,10.1007/s10514-020-09903-2
+Multi-agent informed path planning using the probability hypothesis density,10.1007/s10514-020-09904-1
+Improved and scalable online learning of spatial concepts and language models with mapping,10.1007/s10514-020-09905-0
+GP-SLAM: laser-based SLAM approach based on regionalized Gaussian process map reconstruction,10.1007/s10514-020-09906-z
+Correction to: GP-SLAM: laser-based SLAM approach based on regionalized Gaussian process map reconstruction,10.1007/s10514-020-09909-w
+Generative Attention Learning: a “GenerAL” framework for high-performance multi-fingered grasping in clutter,10.1007/s10514-020-09907-y
+Formation control of unmanned micro aerial vehicles for straitened environments,10.1007/s10514-020-09913-0
+Merging of appearance-based place knowledge among multiple robots,10.1007/s10514-020-09911-2
+Observability index optimization of robot calibration based on multiple identification spaces,10.1007/s10514-020-09920-1
+A velocity control strategy for collision avoidance of autonomous agricultural vehicles,10.1007/s10514-020-09924-x
+Online trajectory planning and control of a MAV payload system in dynamic environments,10.1007/s10514-020-09919-8
+Spatially-dependent Bayesian semantic perception under model and localization uncertainty,10.1007/s10514-020-09921-0
+Exploration of the applicability of probabilistic inference for learning control in underactuated autonomous underwater vehicles,10.1007/s10514-020-09922-z
+Orientation constraints for Wi-Fi SLAM using signal strength gradients,10.1007/s10514-020-09914-z
+Correction to: Orientation constraints for Wi-Fi SLAM using signal strength gradients,10.1007/s10514-020-09940-x
+Nonlinear observability of unicycle multi-robot teams subject to nonuniform environmental disturbances,10.1007/s10514-020-09923-y
+Iterative residual tuning for system identification and sim-to-real robot learning,10.1007/s10514-020-09925-w
+Multi-objective drone path planning for search and rescue with quality-of-service requirements,10.1007/s10514-020-09926-9
+Geolocalization with aerial image sequence for UAVs,10.1007/s10514-020-09927-8
+Disturbance observer enhanced variable gain controller for robot teleoperation with motion capture using wearable armbands,10.1007/s10514-020-09928-7
+"A unified kinematics modeling, optimization and control of universal robots: from serial and parallel manipulators to walking, rolling and hybrid robots",10.1007/s10514-020-09929-6
+Manipulation planning under changing external forces,10.1007/s10514-020-09930-z
+Wind disturbance rejection for unmanned aerial vehicles using acceleration feedback enhanced \(H_\infty \) method,10.1007/s10514-020-09935-8
+Guest Editorial: Robotics: Science and Systems 2018 (RSS 2018),10.1007/s10514-020-09939-4
+High precision control and deep learning-based corn stand counting algorithms for agricultural robot,10.1007/s10514-020-09915-y
+Plug-and-play supervisory control using muscle and brain signals for real-time gesture and error detection,10.1007/s10514-020-09916-x
+Planar max flow maps and determination of lanes with clearance,10.1007/s10514-020-09917-w
+An analysis of RelaxedIK: an optimization-based framework for generating accurate and feasible robot arm motions,10.1007/s10514-020-09918-9
+Optimal solution of the Generalized Dubins Interval Problem: finding the shortest curvature-constrained path through a set of regions,10.1007/s10514-020-09932-x
+Structuring of tactile sensory information for category formation in robotics palpation,10.1007/s10514-020-09931-y
+A method for autonomous robotic manipulation through exploratory interactions with uncertain environments,10.1007/s10514-020-09933-w
+A dynamical system approach for detection and reaction to human guidance in physical human–robot interaction,10.1007/s10514-020-09934-9
+Online coverage and inspection planning for 3D modeling,10.1007/s10514-020-09936-7
+Scalable time-constrained planning of multi-robot systems,10.1007/s10514-020-09937-6
+Angular momentum-based control of an underactuated orthotic system for crouch-to-stand motion,10.1007/s10514-020-09938-5
+RGB-D camera calibration and trajectory estimation for indoor mapping,10.1007/s10514-020-09941-w
+An approach to object-level stiffness regulation of hand-arm systems subject to under-actuation constraints,10.1007/s10514-020-09942-9
+Tightly-coupled ultra-wideband-aided monocular visual SLAM with degenerate anchor configurations,10.1007/s10514-020-09944-7
+Vol43_2019
+Tracking multiple Autonomous Underwater Vehicles,10.1007/s10514-018-9696-7
+2D–3D synchronous/asynchronous camera fusion for visual odometry,10.1007/s10514-018-9698-5
+AMPLE: an anytime planning and execution framework for dynamic and uncertain problems in robotics,10.1007/s10514-018-9703-z
+Design of a terrain adaptive wheeled robot for human-orientated environments,10.1007/s10514-018-9701-1
+Learning to exploit passive compliance for energy-efficient gait generation on a compliant humanoid,10.1007/s10514-018-9697-6
+Efficient collective shape shifting and locomotion of massively-modular robotic structures,10.1007/s10514-018-9709-6
+Tactile-based active object discrimination and target object search in an unknown workspace,10.1007/s10514-018-9707-8
+Model predictive cooperative localization control of multiple UAVs using potential function sensor constraints,10.1007/s10514-018-9711-z
+Representing human motion with FADE and U-FADE: an efficient frequency-domain approach,10.1007/s10514-018-9722-9
+Topological local-metric framework for mobile robots navigation: a long term perspective,10.1007/s10514-018-9724-7
+Finding optimal feasible global plans for multiple teams of heterogeneous robots using hybrid reasoning: an application to cognitive factories,10.1007/s10514-018-9721-x
+Robot learning of industrial assembly task via human demonstrations,10.1007/s10514-018-9725-6
+Editor’s Note: Special Issue on Robotics: Science and Systems,10.1007/s10514-018-09825-0
+Drone delivery systems: job assignment and dimensioning,10.1007/s10514-018-9768-8
+Learning control lyapunov functions from counterexamples and demonstrations,10.1007/s10514-018-9791-9
+Enabling robots to communicate their objectives,10.1007/s10514-018-9771-0
+Optimal shape and motion planning for dynamic planar manipulation,10.1007/s10514-018-9773-y
+Asymptotically optimal kinematic design of robots using motion planning,10.1007/s10514-018-9766-x
+“I Choose... YOU!” Membership preferences in human–robot teams,10.1007/s10514-018-9767-9
+Robust direct trajectory optimization using approximate invariant funnels,10.1007/s10514-018-9779-5
+Dempster-Shafer theoretic resolution of referential ambiguity,10.1007/s10514-018-9795-5
+STEAP: simultaneous trajectory estimation and planning,10.1007/s10514-018-9770-1
+An inductance-based sensing system for bellows-driven continuum joints in soft robots,10.1007/s10514-018-9769-7
+Grounding natural language instructions to semantic goal representations for abstraction and generalization,10.1007/s10514-018-9792-8
+Relaxed-rigidity constraints: kinematic trajectory optimization and collision avoidance for in-grasp manipulation,10.1007/s10514-018-9772-z
+Distributed matroid-constrained submodular maximization for multi-robot exploration: theory and practice,10.1007/s10514-018-9778-6
+Improving slip prediction on Mars using thermal inertia measurements,10.1007/s10514-018-9796-4
+Design of a partially-coupled self-adaptive robotic finger optimized for collaborative robots,10.1007/s10514-018-9802-x
+Coordination of multiple AGVs: a quadratic optimization method,10.1007/s10514-018-9730-9
+A robust set approach for mobile robot localization in ambient environment,10.1007/s10514-018-9727-4
+Scalable Markov chain approximation for a safe intercept navigation in the presence of multiple vehicles,10.1007/s10514-018-9739-0
+"Attractor dynamics approach to joint transportation by autonomous robots: theory, implementation and validation on the factory floor",10.1007/s10514-018-9729-2
+Multimodal anomaly detection for assistive robots,10.1007/s10514-018-9733-6
+Goal state driven trajectory optimization,10.1007/s10514-018-9728-3
+Multi-robot grasp planning for sequential assembly operations,10.1007/s10514-018-9748-z
+An integer linear programming model for fair multitarget tracking in cooperative multirobot systems,10.1007/s10514-018-9735-4
+Robust proprioceptive grasping with a soft robot hand,10.1007/s10514-018-9754-1
+Automatic semantic maps generation from lexical annotations,10.1007/s10514-018-9723-8
+Learning from demonstration for semi-autonomous teleoperation,10.1007/s10514-018-9745-2
+Windowed multiscan optimization using weighted least squares for improving localization accuracy of mobile robots,10.1007/s10514-018-9763-0
+Guest Editorial: Special section on “Foundations of resilience for networked robotic systems”,10.1007/s10514-018-9818-2
+"Resilient distributed state estimation with mobile agents: overcoming Byzantine adversaries, communication losses, and intermittent measurements",10.1007/s10514-018-9813-7
+Robust connectivity maintenance for fallible robots,10.1007/s10514-018-9812-8
+Real-time distributed non-myopic task selection for heterogeneous robotic teams,10.1007/s10514-018-9811-9
+Predicting the global structure of indoor environments: A constructive machine learning approach,10.1007/s10514-018-9732-7
+Distributed configuration formation with modular robots using (sub)graph isomorphism-based approach,10.1007/s10514-018-9759-9
+Simultaneous learning of hierarchy and primitives for complex robot tasks,10.1007/s10514-018-9749-y
+An ensemble inverse optimal control approach for robotic task learning and adaptation,10.1007/s10514-018-9757-y
+Learning position and orientation dynamics from demonstrations via contraction analysis,10.1007/s10514-018-9758-x
+Linking human motions and objects to language for synthesizing action sentences,10.1007/s10514-018-9762-1
+A dynamical system approach to task-adaptation in physical human–robot interaction,10.1007/s10514-018-9764-z
+Utility function generated saccade strategies for robot active vision: a probabilistic approach,10.1007/s10514-018-9752-3
+Quantifying protocol evaluation for autonomous collision avoidance,10.1007/s10514-018-9765-y
+iCLAP: shape recognition by combining proprioception and touch sensing,10.1007/s10514-018-9777-7
+Viewpoint invariant semantic object and scene categorization with RGB-D sensors,10.1007/s10514-018-9776-8
+Robust and adaptive dynamic controller for fully-actuated robots in operational space under uncertainties,10.1007/s10514-018-9780-z
+Computing the best grasp in a discrete point set with wrench-oriented grasp quality measures,10.1007/s10514-018-9788-4
+Parking objects by pushing using uncalibrated visual servoing,10.1007/s10514-018-9782-x
+Distributed multi-robot formation control in dynamic environments,10.1007/s10514-018-9783-9
+A regrasp planning component for object reorientation,10.1007/s10514-018-9781-y
+2D map alignment with region decomposition,10.1007/s10514-018-9785-7
+UAV route planning for active disease classification,10.1007/s10514-018-9790-x
+Towards affordance detection for robot manipulation using affordance for parts and parts for affordance,10.1007/s10514-018-9787-5
+A fast hybrid reinforcement learning framework with human corrective feedback,10.1007/s10514-018-9786-6
+Kinematic optimization for bipedal robots: a framework for real-time collision avoidance,10.1007/s10514-018-9789-3
+Efficient Velodyne SLAM with point and plane features,10.1007/s10514-018-9794-6
+Environment-adaptive interaction primitives through visual context for human–robot motor skill learning,10.1007/s10514-018-9798-2
+Dynamic grasp and trajectory planning for moving objects,10.1007/s10514-018-9799-1
+An efficient RANSAC hypothesis evaluation using sufficient statistics for RGB-D pose estimation,10.1007/s10514-018-9801-y
+Sensorimotor input as a language generalisation tool: a neurorobotics model for generation and generalisation of noun-verb combinations with sensorimotor inputs,10.1007/s10514-018-9793-7
+Kinesthetic teaching and attentional supervision of structured tasks in human–robot interaction,10.1007/s10514-018-9706-9
+Multi-users online recognition of technical gestures for natural human–robot collaboration in manufacturing,10.1007/s10514-018-9704-y
+A human inspired handover policy using Gaussian Mixture Models and haptic cues,10.1007/s10514-018-9705-x
+Adapting robot task planning to user preferences: an assistive shoe dressing example,10.1007/s10514-018-9737-2
+Online adaptive teleoperation via motion primitives for mobile robots,10.1007/s10514-018-9753-2
+A multiagent framework for learning dynamic traffic management strategies,10.1007/s10514-018-9800-z
+Semantic and geometric reasoning for robotic grasping: a probabilistic logic approach,10.1007/s10514-018-9784-8
+Map-based localization and loop-closure detection from a moving underwater platform using flow features,10.1007/s10514-018-9797-3
+Pushing corridors for delivering unknown objects with a mobile robot,10.1007/s10514-018-9804-8
+Validating multi-rigid body simulation of a wild robot,10.1007/s10514-018-9805-7
+Anticipative kinodynamic planning: multi-objective robot navigation in urban and dynamic environments,10.1007/s10514-018-9806-6
+Passive shared virtual environment for haptic cooperation,10.1007/s10514-018-9809-3
+Decentralized progressive shape formation with robot swarms,10.1007/s10514-018-9807-5
+Sequential Monte Carlo controller that integrates physical consistency and motion knowledge,10.1007/s10514-018-9815-5
+Neuromuscular model achieving speed control and steering with a 3D bipedal walker,10.1007/s10514-018-9814-6
+Advancing multi-vehicle deployments in oceanographic field experiments,10.1007/s10514-018-9810-x
+Combined heuristic task and motion planning for bi-manual robots,10.1007/s10514-018-9817-3
+Towards real-time whole-body human dynamics estimation through probabilistic sensor fusion algorithms,10.1007/s10514-018-9808-4
+Autonomous flight with robust visual odometry under dynamic lighting conditions,10.1007/s10514-018-9816-4
+Reliable robotic handovers through tactile sensing,10.1007/s10514-018-09823-2
+Dynamic task allocation in an uncertain environment with heterogeneous multi-agents,10.1007/s10514-018-09820-5
+Selective image registration for efficient visual SLAM on planar surface structures in underwater environment,10.1007/s10514-018-09824-1
+Reinforcement learning and model predictive control for robust embedded quadrotor guidance and control,10.1007/s10514-019-09829-4
+Deep learning of structured environments for robot search,10.1007/s10514-018-09821-4
+Sampling-based optimal kinodynamic planning with motion primitives,10.1007/s10514-019-09830-x
+Learning motion primitives for planning swift maneuvers of quadrotor,10.1007/s10514-019-09831-w
+3D multi-robot patrolling with a two-level coordination strategy,10.1007/s10514-018-09822-3
+Mosquito-inspired distributed swarming and pursuit for cooperative defense against fast intruders,10.1007/s10514-018-09827-y
+A motion strategy for exploration driven by an automaton activating feedback-based controllers,10.1007/s10514-019-09835-6
+Multi-modal active perception for information gathering in science missions,10.1007/s10514-019-09836-5
+Hybrid CPG–FRI dynamic walking algorithm balancing agility and stability control of biped robot,10.1007/s10514-019-09839-2
+Effects of the weighting matrix on dynamic manipulability of robots,10.1007/s10514-018-09819-y
+Synthesis of kinematically constrained full-body motion from stochastic motion model,10.1007/s10514-019-09837-4
+A lightweight and scalable visual-inertial motion capture system using fiducial markers,10.1007/s10514-019-09834-7
+Active learning via informed search in movement parameter space for efficient robot task learning and transfer,10.1007/s10514-019-09842-7
+Data collection planning with non-zero sensing distance for a budget and curvature constrained unmanned aerial vehicle,10.1007/s10514-019-09844-5
+Versatile and robust bipedal walking in unknown environments: real-time collision avoidance and disturbance rejection,10.1007/s10514-019-09838-3
+Improving rover mobility through traction control: simulating rovers on the Moon,10.1007/s10514-019-09846-3
+Distributed iterative learning control for multi-agent systems,10.1007/s10514-019-09845-4
+Multi-robot planning with conflicts and synergies,10.1007/s10514-019-09848-1
+Task-centric optimization of configurations for assistive robots,10.1007/s10514-019-09847-2
+Motion encoding with asynchronous trajectories of repetitive teleoperation tasks and its extension to human-agent shared teleoperation,10.1007/s10514-019-09853-4
+Real-time robot path planning from simple to complex obstacle patterns via transfer learning of options,10.1007/s10514-019-09852-5
+The impact of load on the wheel rolling radius and slip in a small mobile platform,10.1007/s10514-019-09857-0
+Real-time motion planning with a fixed-wing UAV using an agile maneuver space,10.1007/s10514-019-09863-2
+Localization uncertainty-aware autonomous exploration and mapping with aerial robots using receding horizon path-planning,10.1007/s10514-019-09864-1
+ART neural network-based integration of episodic memory and semantic memory for task planning for robots,10.1007/s10514-019-09868-x
+Personalized collaborative plans for robot-assisted dressing via optimization and simulation,10.1007/s10514-019-09865-0
+A constrained instantaneous learning approach for aerial package delivery robots: onboard implementation and experimental results,10.1007/s10514-019-09875-y
+Learning attentional regulations for structured tasks execution in robotic cognitive control,10.1007/s10514-019-09876-x
+Augmenting visual SLAM with Wi-Fi sensing for indoor applications,10.1007/s10514-019-09874-z
+NP-completeness of optimal planning problem for modular robots,10.1007/s10514-019-09878-9
+"Horizon-based lazy optimal RRT for fast, efficient replanning in dynamic environment",10.1007/s10514-019-09879-8
+Motion planning for robot audition,10.1007/s10514-019-09880-1
+Vol42_2018
+Robotic assembly solution by human-in-the-loop teaching method based on real-time stiffness modulation,10.1007/s10514-017-9635-z
+Relational affordances for multiple-object manipulation,10.1007/s10514-017-9637-x
+Learning motions from demonstrations and rewards with time-invariant dynamical systems based policies,10.1007/s10514-017-9636-y
+Topological map construction and scene recognition for vehicle localization,10.1007/s10514-017-9638-9
+Active localization and tracking of needle and target in robotic image-guided intervention systems,10.1007/s10514-017-9640-2
+GPS/odometry/map fusion for vehicle positioning using potential function,10.1007/s10514-017-9646-9
+Visual identification of biological motion for underwater human–robot interaction,10.1007/s10514-017-9644-y
+Bidirectional invariant representation of rigid body motions and its application to gesture recognition and reproduction,10.1007/s10514-017-9645-x
+Energetic analysis and optimization of a MACCEPA actuator in an ankle prosthesis,10.1007/s10514-017-9641-1
+Learning task manifolds for constrained object manipulation,10.1007/s10514-017-9643-z
+Guest editorial: Special issue on active perception,10.1007/s10514-018-9695-8
+Revisiting active perception,10.1007/s10514-017-9615-3
+A comparison of volumetric information gain metrics for active 3D object reconstruction,10.1007/s10514-017-9634-0
+Exploiting submodular value functions for scaling up active perception,10.1007/s10514-017-9666-5
+Autonomous robotic exploration using a utility function based on Rényi’s general theory of entropy,10.1007/s10514-017-9662-9
+Environment model adaptation for mobile robot exploration,10.1007/s10514-017-9669-2
+Gaussian processes autonomous mapping and exploration for range-sensing mobile robots,10.1007/s10514-017-9668-3
+Receding horizon path planning for 3D exploration and surface inspection,10.1007/s10514-016-9610-0
+Chance-constrained target tracking using sensors with bounded fan-shaped sensing regions,10.1007/s10514-017-9656-7
+Near-optimal probabilistic search using spatial Fourier sparse set,10.1007/s10514-017-9616-2
+Cooperative multi-robot belief space planning for autonomous navigation in unknown environments,10.1007/s10514-017-9620-6
+Distributed information-based guidance of multiple mobile sensors for urban target search,10.1007/s10514-017-9658-5
+Monte Carlo planning for active object classification,10.1007/s10514-017-9626-0
+Improving object orientation estimates by considering multiple viewpoints,10.1007/s10514-017-9633-1
+Contour-based next-best view planning from point cloud segmentation of unknown objects,10.1007/s10514-017-9618-0
+On the advantages of foveal mechanisms for active stereo systems in visual search tasks,10.1007/s10514-017-9617-1
+An information based feedback control for audio-motor binaural localization,10.1007/s10514-017-9639-8
+Adaptive sampling of cumulus clouds with UAVs,10.1007/s10514-017-9625-1
+Edge alignment-based visual–inertial fusion for tracking of aggressive motions,10.1007/s10514-017-9642-0
+Using probabilistic movement primitives in robotics,10.1007/s10514-017-9648-7
+Integration of sliding mode based steering control and PSO based drive force control for a 4WS4WD vehicle,10.1007/s10514-017-9649-6
+Generic method for generating blended gestures and affective functional behaviors for social robots,10.1007/s10514-017-9650-0
+A kernel-based approach to learning contact distributions for robot manipulation tasks,10.1007/s10514-017-9651-z
+A representation method based on the probability of collision for safe robot navigation in domestic environments,10.1007/s10514-017-9653-x
+Relative motion estimation using visual–inertial optical flow,10.1007/s10514-017-9654-9
+Unsupervised early prediction of human reaching for human–robot collaboration in shared workspaces,10.1007/s10514-017-9655-8
+Range-only SLAM for robot-sensor network cooperation,10.1007/s10514-017-9663-8
+Are you ABLE to perform a life-long visual topological localization?,10.1007/s10514-017-9664-7
+Guest editorial: Special issue on online decision making in multi-robot coordination,10.1007/s10514-018-9720-y
+Decentralized multi-robot belief space planning in unknown environments via identification and efficient re-evaluation of impacted paths,10.1007/s10514-017-9659-4
+Online planning for multi-robot active perception with self-organising maps,10.1007/s10514-017-9691-4
+Searching and tracking people with cooperative mobile robots,10.1007/s10514-017-9681-6
+Learning environmental fields with micro underwater vehicles: a path integral—Gaussian Markov random field approach,10.1007/s10514-017-9685-2
+Timed abstractions for distributed cooperative manipulation,10.1007/s10514-017-9672-7
+Reactive mission and motion planning with deadlock resolution avoiding dynamic obstacles,10.1007/s10514-017-9665-6
+Complete 3-D dynamic coverage in energy-constrained multi-UAV sensor networks,10.1007/s10514-017-9661-x
+Reconfigurable multi-robot coordination with guaranteed convergence in obstacle cluttered environments under local communication,10.1007/s10514-017-9660-y
+Strategies for coordinated multirobot exploration with recurrent connectivity constraints,10.1007/s10514-017-9652-y
+Locally-optimal multi-robot navigation under delaying disturbances using homotopy constraints,10.1007/s10514-017-9673-6
+Multiple-place swarm foraging with dynamic depots,10.1007/s10514-017-9693-2
+The Team Surviving Orienteers problem: routing teams of robots in uncertain environments with survival constraints,10.1007/s10514-017-9694-1
+Special issue on learning for human–robot collaboration,10.1007/s10514-018-9756-z
+Progress and prospects of the human–robot collaboration,10.1007/s10514-017-9677-2
+Early prediction for physical human robot collaboration in the operating room,10.1007/s10514-017-9670-9
+Skill-based human–robot cooperation in tele-operated path tracking,10.1007/s10514-017-9675-4
+Robot adaptation to human physical fatigue in human–robot co-manipulation,10.1007/s10514-017-9678-1
+Human robot cooperation with compliance adaptation along the motion trajectory,10.1007/s10514-017-9676-3
+Co-manipulation with a library of virtual guiding fixtures,10.1007/s10514-017-9680-7
+One-shot learning of human–robot handovers with triadic interaction meshes,10.1007/s10514-018-9699-4
+Learning proactive behavior for interactive social robots,10.1007/s10514-017-9671-8
+Hierarchical emotional episodic memory for social human robot collaboration,10.1007/s10514-017-9679-0
+Efficient behavior learning in human–robot collaboration,10.1007/s10514-017-9674-5
+Optimized vision-based robot motion planning from multiple demonstrations,10.1007/s10514-017-9667-4
+Long-term online multi-session graph-based SPLAM with memory management,10.1007/s10514-017-9682-5
+Gaussian process for 6-DoF rigid motions,10.1007/s10514-017-9683-4
+BoCNF: efficient image matching with Bag of ConvNet features for scalable and robust visual place recognition,10.1007/s10514-017-9684-3
+Analyzing and improving multi-robot missions by using process mining,10.1007/s10514-017-9686-1
+Competitive target search with multi-agent teams: symmetric and asymmetric communication constraints,10.1007/s10514-017-9687-0
+A sensor-based approach for fault detection and diagnosis for robotic systems,10.1007/s10514-017-9688-z
+Design of vertebrae-inspired trunk mechanism for controlling walking behavior of semi-passive walker,10.1007/s10514-017-9689-y
+Autonomous navigation of micro aerial vehicles using high-rate and low-cost sensors,10.1007/s10514-017-9690-5
+Skeleton-based bio-inspired human activity prediction for real-time human–robot interaction,10.1007/s10514-017-9692-3
+"Special issue on “Robotics: Science and Systems”, 2016",10.1007/s10514-018-9775-9
+Street-view change detection with deconvolutional networks,10.1007/s10514-018-9734-5
+Sequence-based sparse optimization methods for long-term loop closure detection in visual SLAM,10.1007/s10514-018-9736-3
+Accomplishing high-level tasks with modular robots,10.1007/s10514-018-9738-1
+"Representing, learning, and controlling complex object interactions",10.1007/s10514-018-9740-7
+Going with the flow: a graph based approach to optimal path planning in general flows,10.1007/s10514-018-9741-6
+On the relationship between dynamics and complexity in multi-agent collision avoidance,10.1007/s10514-018-9743-4
+Planning for cars that coordinate with people: leveraging effects on human actions for planning and active information gathering over human internal state,10.1007/s10514-018-9746-1
+Routing autonomous vehicles in congested transportation networks: structural properties and coordination algorithms,10.1007/s10514-018-9750-5
+"Integrated proximity, contact and force sensing using elastomer-embedded commodity proximity sensors",10.1007/s10514-018-9751-4
+Four aspects of building robotic systems: lessons from the Amazon Picking Challenge 2015,10.1007/s10514-018-9761-2
+Solving the task variant allocation problem in distributed robotics,10.1007/s10514-018-9742-5
+Probabilistic approaches to the \( AXB = YCZ \) calibration problem in multi-robot systems,10.1007/s10514-018-9744-3
+Guest editorial: Special issue on distributed robotics—from fundamentals to applications,10.1007/s10514-018-9803-9
+A distributed control and parameter estimation protocol with prescribed performance for homogeneous lagrangian multi-agent systems,10.1007/s10514-018-9700-2
+ALAN: adaptive learning for multi-agent navigation,10.1007/s10514-018-9719-4
+"Bound to help: cooperative manipulation of objects via compliant, unactuated tails",10.1007/s10514-018-9718-5
+Decentralized navigation method for a robotic swarm with nonhomogeneous abilities,10.1007/s10514-018-9774-x
+Decentralized planning and control for UAV–UGV cooperative teams,10.1007/s10514-018-9712-y
+Designing a quasi-spherical module for a huge modular robot to create programmable matter,10.1007/s10514-018-9710-0
+Distributed camouflage for swarm robotics and smart materials,10.1007/s10514-018-9717-6
+Distributed inference-based multi-robot exploration,10.1007/s10514-018-9708-7
+Distributed system of autonomous buoys for scalable deployment and monitoring of large waterbodies,10.1007/s10514-018-9702-0
+Dynamic teams of robots as ad hoc distributed computers: reducing the complexity of multi-robot motion planning via subspace selection,10.1007/s10514-018-9714-9
+Information-sharing and decision-making in networks of radiation detectors,10.1007/s10514-018-9716-7
+Limited range spatial load balancing in non-convex environments using sampling-based motion planners,10.1007/s10514-018-9713-x
+Multi robot collision avoidance in a shared workspace,10.1007/s10514-018-9726-5
+Online planning for human–multi-robot interactive theatrical performance,10.1007/s10514-018-9755-0
+On-board communication-based relative localization for collision avoidance in Micro Air Vehicle teams,10.1007/s10514-018-9760-3
+Robust rendezvous for multi-robot system with random node failures: an optimization approach,10.1007/s10514-018-9715-8
+Teleoperation of a platoon of distributed wheeled mobile robots with predictive display,10.1007/s10514-018-9747-0
+Vol41_2017
+Unsupervised learning to detect loops using deep neural networks for visual SLAM system,10.1007/s10514-015-9516-2
+Finite-time obstacle avoidance for unicycle-like robot subject to additive input disturbances,10.1007/s10514-015-9526-0
+A real-time method for depth enhanced visual odometry,10.1007/s10514-015-9525-1
+Learning potential functions from human demonstrations with encapsulated dynamic and compliant behaviors,10.1007/s10514-015-9528-y
+A sliding mode controller with a nonlinear disturbance observer for a farm vehicle operating in the presence of wheel slip,10.1007/s10514-015-9530-4
+View/state planning for three-dimensional object reconstruction under uncertainty,10.1007/s10514-015-9531-3
+Localization aware sampling and connection strategies for incremental motion planning under uncertainty,10.1007/s10514-015-9536-y
+Selective visual odometry for accurate AUV localization,10.1007/s10514-015-9541-1
+An analysis of grasp quality measures for the application of sheet metal parts grasping,10.1007/s10514-015-9535-z
+Active target search for high dimensional robotic systems,10.1007/s10514-015-9539-8
+Combining temporal planning with probabilistic reasoning for autonomous surveillance missions,10.1007/s10514-015-9534-0
+Near-optimal probabilistic search via submodularity and sparse regression,10.1007/s10514-015-9521-5
+Physics-inspired motion planning for information-theoretic target detection using multiple aerial robots,10.1007/s10514-015-9542-0
+A whole-body rescue motion control with task-priority strategy for a rescue robot,10.1007/s10514-016-9562-4
+High-slope terrain locomotion for torque-controlled quadruped robots,10.1007/s10514-016-9573-1
+Spatio-temporal stiffness optimization with switching dynamics,10.1007/s10514-015-9537-x
+Vision-based maze navigation for humanoid robots,10.1007/s10514-015-9533-1
+Stochastic mobility prediction of ground vehicles over large spatial regions: a geostatistical approach,10.1007/s10514-015-9527-z
+Learning autonomous behaviours for the body of a flexible surgical robot,10.1007/s10514-016-9544-6
+Head stabilization in a humanoid robot: models and implementations,10.1007/s10514-016-9583-z
+Making sense of words: a robotic model for language abstraction,10.1007/s10514-016-9587-8
+The speed graph method: pseudo time optimal navigation among obstacles subject to uniform braking safety constraints,10.1007/s10514-015-9538-9
+Low-drift and real-time lidar odometry and mapping,10.1007/s10514-016-9548-2
+Underwater map-based localization using flow features,10.1007/s10514-016-9558-0
+Spinal joint compliance and actuation in a simulated bounding quadruped robot,10.1007/s10514-015-9540-2
+"Dynamically feasible, energy efficient motion planning for skid-steered vehicles",10.1007/s10514-016-9550-8
+An accurate and efficient navigation system for omnidirectional robots in industrial environments,10.1007/s10514-016-9557-1
+RBDL: an efficient rigid-body dynamics library using recursive algorithms,10.1007/s10514-016-9574-0
+Special Issue on Assistive and Rehabilitation Robotics,10.1007/s10514-017-9627-z
+A smart wheelchair ecosystem for autonomous navigation in urban environments,10.1007/s10514-016-9549-1
+"Intelligent wheelchair control strategies for older adults with cognitive impairment: user attitudes, needs, and preferences",10.1007/s10514-016-9568-y
+Navigating blind people with walking impairments using a smart walker,10.1007/s10514-016-9595-8
+Human sit-to-stand transfer modeling towards intuitive and biologically-inspired robot assistance,10.1007/s10514-016-9553-5
+Probabilistic movement primitives for coordination of multiple human–robot collaborative tasks,10.1007/s10514-016-9556-2
+"Impact of sensory preferences of individuals with autism on the recognition of emotions expressed by two robots, an avatar, and a human",10.1007/s10514-016-9575-z
+A low-cost socially assistive robot and robot-assisted intervention for children with autism spectrum disorder: field trials and lessons learned,10.1007/s10514-016-9554-4
+An autonomous robotic exercise tutor for elderly people,10.1007/s10514-016-9598-5
+ROREAS: robot coach for walking and orientation training in clinical post-stroke rehabilitation—prototype implementation and evaluation in field trials,10.1007/s10514-016-9552-6
+Design of a cloud robotic system to support senior citizens: the KuBo experience,10.1007/s10514-016-9569-x
+SCRIPT passive orthosis: design of interactive hand and wrist exoskeleton for rehabilitation at home after stroke,10.1007/s10514-016-9589-6
+First steps toward translating robotic walking to prostheses: a nonlinear optimization based control approach,10.1007/s10514-016-9565-1
+"Assist
+On-Ankle: a reconfigurable ankle exoskeleton with series-elastic actuation",10.1007/s10514-016-9551-7
+An oscillator-based smooth real-time estimate of gait phase for wearable robotics,10.1007/s10514-016-9566-0
+Robot social-aware navigation framework to accompany people walking side-by-side,10.1007/s10514-016-9584-y
+An incremental nonparametric Bayesian clustering-based traversable region detection method,10.1007/s10514-016-9588-7
+Hark! Who goes there? Concurrent association of communication channels for multiple mobile robots,10.1007/s10514-016-9570-4
+Inverse dynamics with rigid contact and friction,10.1007/s10514-016-9608-7
+A method of classifying crumpled clothing based on image features derived from clothing fabrics and wrinkles,10.1007/s10514-016-9559-z
+Monocular vision-based real-time target recognition and tracking for autonomously landing an UAV in a cluttered shipboard environment,10.1007/s10514-016-9564-2
+Vision-based and IMU-aided scale factor-free linear velocity estimator,10.1007/s10514-016-9561-5
+System for deployment of groups of unmanned micro aerial vehicles in GPS-denied environments using onboard visual relative localization,10.1007/s10514-016-9567-z
+Towards a learnt neural body schema for dexterous coordination of action in humanoid and industrial robots,10.1007/s10514-016-9563-3
+Multi-resolution map building and loop closure with omnidirectional images,10.1007/s10514-016-9560-6
+Decentralized simultaneous multi-target exploration using a connected network of multiple robots,10.1007/s10514-016-9578-9
+A confidence-based roadmap using Gaussian process regression,10.1007/s10514-016-9604-y
+Inferring and monitoring invariants in robotic systems,10.1007/s10514-016-9576-y
+Binding human spatial interactions with mapping for enhanced mobility in dynamic environments,10.1007/s10514-016-9581-1
+Learning modular and transferable forward models of the motions of push manipulated objects,10.1007/s10514-016-9571-3
+Energy-aware fault-mitigation architecture for underwater vehicles,10.1007/s10514-016-9585-x
+A bionic autonomous navigation system by using polarization navigation sensor and stereo camera,10.1007/s10514-016-9596-7
+Symmetry in legged locomotion: a new method for designing stable periodic gaits,10.1007/s10514-016-9593-x
+Optimal transition from hovering to level-flight of a quadrotor tail-sitter UAV,10.1007/s10514-016-9599-4
+Dynamic Bayesian network for semantic place classification in mobile robotics,10.1007/s10514-016-9600-2
+Robot life-long task learning from human demonstrations: a Bayesian approach,10.1007/s10514-016-9601-1
+Autonomous human–robot proxemics: socially aware navigation based on interaction potential,10.1007/s10514-016-9572-2
+Behavioral control of unmanned aerial vehicle manipulator systems,10.1007/s10514-016-9590-0
+Low stiffness design and hysteresis compensation torque control of SEA for active exercise rehabilitation robots,10.1007/s10514-016-9591-z
+Erratum to: Low stiffness design and hysteresis compensation torque control of SEA for active exercise rehabilitation robots,10.1007/s10514-016-9611-z
+Detecting perceived quality of interaction with a robot using contextual features,10.1007/s10514-016-9592-y
+Enabling personalised medical support for chronic disease management through a hybrid robot-cloud approach,10.1007/s10514-016-9586-9
+Orbital stabilization of an underactuated bipedal gait via nonlinear \({{\mathcal H}}_{\infty }\)-control using measurement feedback,10.1007/s10514-015-9543-z
+Avoiding target congestion on the navigation of robotic swarms,10.1007/s10514-016-9577-x
+Distributed on-line dynamic task assignment for multi-robot patrolling,10.1007/s10514-016-9579-8
+Velocity obstacle based local collision avoidance for a holonomic elliptic robot,10.1007/s10514-016-9580-2
+"Editor’s note: Special Issue on Robotics: Science and Systems, 2015",10.1007/s10514-017-9647-8
+Multipolicy decision-making for autonomous driving via changepoint-based behavior prediction: Theory and experiment,10.1007/s10514-017-9619-z
+Guaranteeing spoof-resilient multi-robot networks,10.1007/s10514-017-9621-5
+Autonomy infused teleoperation with application to brain computer interface controlled manipulation,10.1007/s10514-017-9622-4
+"Large-scale, real-time 3D scene reconstruction on a mobile device",10.1007/s10514-017-9624-2
+Robust trajectory optimization under frictional contact with iterative learning,10.1007/s10514-017-9629-x
+Event-based automated refereeing for robot soccer,10.1007/s10514-016-9607-8
+A cable-driven robot for architectural constructions: a visual-guided approach for motion control and path-planning,10.1007/s10514-016-9609-6
+B-SHOT: a binary 3D feature descriptor for fast Keypoint matching on 3D point clouds,10.1007/s10514-016-9612-y
+Autonomous exploration of motor skills by skill babbling,10.1007/s10514-016-9613-x
+On-board model-based automatic collision avoidance: application in remotely-piloted unmanned aerial vehicles,10.1007/s10514-017-9614-4
+"Stabilizing air dampers for hovering aerial robotics: design, insect-scale flight tests, and scaling",10.1007/s10514-017-9623-3
+Tracking attracting manifolds in flows,10.1007/s10514-017-9628-y
+Planning using hierarchical constrained Markov decision processes,10.1007/s10514-017-9630-4
+Simultaneous area partitioning and allocation for complete coverage by multiple autonomous industrial robots,10.1007/s10514-017-9631-3
+"Cable-suspended load lifting by a quadrotor UAV: hybrid model, trajectory generation, and control",10.1007/s10514-017-9632-2
+Vol40_2016
+Time-variant gas distribution mapping with obstacle information,10.1007/s10514-015-9437-0
+Generalized hierarchical control,10.1007/s10514-015-9436-1
+From passive to interactive object learning and recognition through self-identification on a humanoid robot,10.1007/s10514-015-9445-0
+Generation of human walking paths,10.1007/s10514-015-9443-2
+An optimal data association method based on the minimum weighted bipartite perfect matching,10.1007/s10514-015-9439-y
+Angular momentum based balance controller for an under-actuated planar robot,10.1007/s10514-015-9446-z
+Learning to plan for constrained manipulation from demonstrations,10.1007/s10514-015-9440-5
+Ellipsoid SLAM: a novel set membership method for simultaneous localization and mapping,10.1007/s10514-015-9447-y
+Soldercubes: a self-soldering self-reconfiguring modular robot system,10.1007/s10514-015-9441-4
+Spatial adaption of robot trajectories based on laplacian trajectory editing,10.1007/s10514-015-9442-3
+Construction of a 3D object recognition and manipulation database from grasp demonstrations,10.1007/s10514-015-9451-2
+Towards an intelligent system for generating an adapted verbal and nonverbal combined behavior in human–robot interaction,10.1007/s10514-015-9444-1
+Simultaneously learning actions and goals from demonstration,10.1007/s10514-015-9448-x
+Application of systems identification to the implementation of motion camouflage in mobile robots,10.1007/s10514-015-9449-9
+Decentralized multi-robot encirclement of a 3D target with guaranteed collision avoidance,10.1007/s10514-015-9450-3
+Closed-loop safety assessment of uncertain roadmaps,10.1007/s10514-015-9452-1
+Ceiling vision-based active SLAM framework for dynamic and wide-open environments,10.1007/s10514-015-9453-0
+Full-body collision detection and reaction with omnidirectional mobile platforms: a step towards safe human–robot interaction,10.1007/s10514-015-9464-x
+Estimation of a nonvisible field-of-view mobile target incorporating optical and acoustic sensors,10.1007/s10514-015-9473-9
+Probabilistic stable motion planning with stability uncertainty for articulated vehicles on challenging terrains,10.1007/s10514-015-9474-8
+Fault detection for service mobile robots using model-based method,10.1007/s10514-015-9475-7
+Maintaining strong mutual visibility of an evader moving over the reduced visibility graph,10.1007/s10514-015-9477-5
+Special issue on whole-body control of contacts and dynamics for humanoid robots,10.1007/s10514-016-9545-5
+"Optimization-based locomotion planning, estimation, and control design for the atlas humanoid robot",10.1007/s10514-015-9479-3
+Balancing of humanoid robot using contact force/moment control by task-oriented whole body control framework,10.1007/s10514-015-9509-1
+Momentum control with hierarchical inverse dynamics on a torque-controlled humanoid,10.1007/s10514-015-9476-6
+Whole-body hierarchical motion and force control for humanoid robots,10.1007/s10514-015-9513-5
+Whole-body impedance control of wheeled mobile manipulators,10.1007/s10514-015-9438-z
+Knowledge-enabled parameterization of whole-body control strategies for compliant service robots,10.1007/s10514-015-9523-3
+Model predictive control for fast reaching in clutter,10.1007/s10514-015-9492-6
+Multi-contact vertical ladder climbing with an HRP-2 humanoid,10.1007/s10514-016-9546-4
+A semantically-informed multirobot system for exploration of relevant areas in search and rescue settings,10.1007/s10514-015-9480-x
+Punctual versus continuous auction coordination for multi-robot and multi-task topological navigation,10.1007/s10514-015-9483-7
+Assistance networks for dynamic multirobot tasks,10.1007/s10514-015-9484-6
+Aerial robotic contact-based inspection: planning and control,10.1007/s10514-015-9485-5
+Incremental statistical learning for integrating motion primitives and language in humanoid robots,10.1007/s10514-015-9486-4
+A variant of cyclic pursuit for target tracking applications: theory and implementation,10.1007/s10514-015-9487-3
+Implementation of a Gaussian process-based machine learning grasp predictor,10.1007/s10514-015-9488-2
+An admittance shaping controller for exoskeleton assistance of the lower extremities,10.1007/s10514-015-9490-8
+Multi-robot target detection and tracking: taxonomy and survey,10.1007/s10514-015-9491-7
+Map evaluation using matched topology graphs,10.1007/s10514-015-9493-5
+A method for ego-motion estimation in micro-hovering platforms flying in very cluttered environments,10.1007/s10514-015-9494-4
+Unsupervised segmentation of unknown objects in complex environments,10.1007/s10514-015-9495-3
+Design and integration of a spatio-temporal memory with emotional influences to categorize and recall the experiences of an autonomous mobile robot,10.1007/s10514-015-9496-2
+Algorithms for finding gaits of locomotive mechanisms: case studies for Gorilla robot brachiation,10.1007/s10514-015-9497-1
+"Humanoid odometric localization integrating kinematic, inertial and visual information",10.1007/s10514-015-9498-0
+Simultaneous localization and mapping for aerial vehicles: a 3-D sensor-based GAS filter,10.1007/s10514-015-9499-z
+A modular approach to learning manipulation strategies from human demonstration,10.1007/s10514-015-9501-9
+Cooperative multi-robot patrol with Bayesian learning,10.1007/s10514-015-9503-7
+Compliance control for stabilizing the humanoid on the changing slope based on terrain inclination estimation,10.1007/s10514-015-9504-6
+Feasibility study of a new energy scavenging system for an autonomous underwater vehicle,10.1007/s10514-015-9506-4
+Real-time adaptive multi-robot exploration with application to underwater map construction,10.1007/s10514-015-9510-8
+Real-time path planning for long-term information gathering with an aerial glider,10.1007/s10514-015-9515-3
+Stabilization of bipedal walking based on compliance control,10.1007/s10514-015-9507-3
+Three-dimensional coverage path planning via viewpoint resampling and tour optimization for aerial robots,10.1007/s10514-015-9517-1
+Potential functions based sampling heuristic for optimal path planning,10.1007/s10514-015-9518-0
+A robust loop-closure method for visual SLAM in unstructured seafloor environments,10.1007/s10514-015-9512-6
+Guest editorial: special issue on long-term autonomy in marine robotics,10.1007/s10514-016-9606-9
+Autonomy for underwater robots—a European perspective,10.1007/s10514-016-9605-x
+Long duration autonomy for maritime systems: challenges and opportunities,10.1007/s10514-016-9582-0
+Human–robot planning and learning for marine data collection,10.1007/s10514-015-9502-8
+Resolution-adaptive risk-aware trajectory planning for surface vehicles operating in congested civilian traffic,10.1007/s10514-015-9529-x
+Robust underwater obstacle detection and collision avoidance,10.1007/s10514-015-9532-2
+Cooperative bathymetry-based localization using low-cost autonomous underwater vehicles,10.1007/s10514-015-9508-2
+Mid-water current aided localization for autonomous underwater vehicles,10.1007/s10514-016-9547-3
+Cooperative navigation of AUVs via acoustic communication networking: field experience with the Typhoon vehicles,10.1007/s10514-016-9594-9
+Opportunistic sampling-based active visual SLAM for underwater inspection,10.1007/s10514-016-9597-6
+Modeling curiosity in a mobile robot for long-term autonomous exploration and monitoring,10.1007/s10514-015-9500-x
+Toward persistent autonomous intervention in a subsea panel,10.1007/s10514-015-9511-7
+Energy optimal depth control for long range underwater vehicles with applications to a hybrid underwater glider,10.1007/s10514-016-9555-3
+A multirobot platform based on autonomous surface and underwater vehicles with bio-inspired neurocontrollers for long-term oil spills monitoring,10.1007/s10514-016-9602-0
+A distributed architecture for supervision of autonomous multi-robot missions,10.1007/s10514-016-9603-z
+Persistent surveillance for unmanned aerial vehicles subject to charging and temporal logic constraints,10.1007/s10514-015-9519-z
+An integrated model of autonomous topological spatial cognition,10.1007/s10514-015-9514-4
+Global image signature for visual loop-closure detection,10.1007/s10514-015-9522-4
+Planning non-holonomic stable trajectories on uneven terrain through non-linear time scaling,10.1007/s10514-015-9505-5
+A robust approach to robot team learning,10.1007/s10514-015-9524-2
+Study on optimal velocity selection using velocity obstacle (OVVO) in dynamic and crowded environment,10.1007/s10514-015-9520-6
+Vol39_2015
+A suboptimal and analytical solution to mobile robot trajectory generation amidst moving obstacles,10.1007/s10514-015-9424-5
+Finger contact sensing and the application in dexterous hand manipulation,10.1007/s10514-015-9425-4
+Simultaneous people tracking and robot localization in dynamic social spaces,10.1007/s10514-015-9426-3
+A hierarchical and adaptive mobile manipulator planner with base pose uncertainty,10.1007/s10514-015-9427-2
+An extendible reconfigurable robot based on hot melt adhesives,10.1007/s10514-015-9428-1
+Collision avoidance for aerial vehicles in multi-agent scenarios,10.1007/s10514-015-9429-0
+A vision based ensemble approach to velocity estimation for miniature rotorcraft,10.1007/s10514-015-9430-7
+Improving multi-modal data fusion by anomaly detection,10.1007/s10514-015-9431-6
+Real-time WiFi localization of heterogeneous robot teams using an online random forest,10.1007/s10514-015-9432-5
+Biologically inspired gait transition control for a quadruped walking robot,10.1007/s10514-015-9433-4
+Trajectory tracking control of an underactuated capsubot,10.1007/s10514-015-9434-3
+Adaptation of manipulation skills in physical contact with the environment to reference force profiles,10.1007/s10514-015-9435-2
+Editorial: special issue on the 2014 “Robotics: Science & Systems” conference,10.1007/s10514-015-9482-8
+Batch nonlinear continuous-time trajectory estimation as exactly sparse Gaussian process regression,10.1007/s10514-015-9455-y
+DART: dense articulated real-time tracking with consumer depth cameras,10.1007/s10514-015-9462-z
+Self-calibration and visual SLAM with a multi-camera system on a micro aerial vehicle,10.1007/s10514-015-9466-8
+Incorporating scene priors to dense monocular mapping,10.1007/s10514-015-9465-9
+"Decision-making authority, team efficiency and human worker satisfaction in mixed human–robot teams",10.1007/s10514-015-9457-9
+Effective task training strategies for human and robot instructors,10.1007/s10514-015-9461-0
+"Deceptive robot motion: synthesis, analysis and experiments",10.1007/s10514-015-9458-8
+Recovering from failure by asking for help,10.1007/s10514-015-9460-1
+Learning place-dependant features for long-term vision-based localisation,10.1007/s10514-015-9463-y
+Active reward learning with a novel acquisition function,10.1007/s10514-015-9454-z
+Learning state representations with robotic priors,10.1007/s10514-015-9459-7
+Communication constrained task allocation with optimized local task swaps,10.1007/s10514-015-9481-9
+Vision-based landing site evaluation and informed optimal trajectory generation toward autonomous rooftop landing,10.1007/s10514-015-9456-x
+Guest Editorial: Special issue on constrained decision-making in robotics,10.1007/s10514-015-9489-1
+Cognitive robots learning failure contexts through real-world experimentation,10.1007/s10514-015-9471-y
+A mechanism for real-time decision making and system maintenance for resource constrained robotic systems through ReFrESH,10.1007/s10514-015-9472-x
+Computationally aware control of autonomous vehicles: a hybrid model predictive control approach,10.1007/s10514-015-9469-5
+Constrained decision-making for low-count radiation detection by mobile sensors,10.1007/s10514-015-9468-6
+Decentralized probabilistic density control of autonomous swarms with safety constraints,10.1007/s10514-015-9470-z
+Chance-constrained dynamic programming with application to risk-aware robotic space exploration,10.1007/s10514-015-9467-7
+Vol38_2015
+Semi-task-dependent and uncertainty-driven world model maintenance,10.1007/s10514-014-9393-0
+Representing the robot’s workspace through constrained manipulability analysis,10.1007/s10514-014-9394-z
+Decentralized dynamic task planning for heterogeneous robotic networks,10.1007/s10514-014-9395-y
+Comparing search algorithms for robotic underground chemical source location,10.1007/s10514-014-9396-x
+Grasp quality measures: review and performance,10.1007/s10514-014-9402-3
+Provably correct reactive control from natural language,10.1007/s10514-014-9418-8
+Autonomous framework for segmenting robot trajectories of manipulation task,10.1007/s10514-014-9397-9
+Incremental topological segmentation for semi-structured environments using discretized GVG,10.1007/s10514-014-9398-8
+Decentralized trajectory optimization using virtual motion camouflage and particle swarm optimization,10.1007/s10514-014-9399-7
+Coordinated landing of a quadrotor on a skid-steered ground vehicle in the presence of time delays,10.1007/s10514-014-9400-5
+A template candidate for miniature legged robots in quasi-static motion,10.1007/s10514-014-9401-4
+Virtual model control of lower extremity exoskeleton for load carriage inspired by human behavior,10.1007/s10514-014-9404-1
+On hybrid modeling and control of a multi-propeller multifunction aerial robot with flying-walking locomotion,10.1007/s10514-014-9405-0
+Feature-based map merging with dynamic consensus on information increments,10.1007/s10514-014-9406-z
+Model-predictive asset guarding by team of autonomous surface vehicles in environment with civilian boats,10.1007/s10514-014-9409-9
+Towards docking for small scale underwater robots,10.1007/s10514-014-9410-3
+A force threshold-based position controller for legged locomotion,10.1007/s10514-014-9413-0
+Push-manipulation of complex passive mobile objects using experimentally acquired motion models,10.1007/s10514-014-9414-z
+Efficient policy search in low-dimensional embedding spaces by generalizing motion primitives with a parameterized skill memory,10.1007/s10514-014-9417-9
+Precision navigation and mapping under bridges with an unmanned surface vehicle,10.1007/s10514-015-9419-2
+Efficient recursive dynamics algorithms for operational-space control with application to legged locomotion,10.1007/s10514-015-9420-9
+Distributed reconfiguration of 2D lattice-based modular robotic systems,10.1007/s10514-015-9421-8
+Pattern generation and compliant feedback control for quadrupedal dynamic trot-walking locomotion: experiments on RoboCat-1 and HyQ,10.1007/s10514-015-9422-7
+Spatially targeted communication in decentralized multirobot systems,10.1007/s10514-015-9423-6
+Vol37_2014
+Online decentralized information gathering with spatial–temporal constraints,10.1007/s10514-013-9369-5
+Synthetic data generation for classification via uni-modal cluster interpolation,10.1007/s10514-013-9373-9
+Policy learning for autonomous feature tracking,10.1007/s10514-013-9375-7
+Design and implementation of a new teleoperation control mode for differential drive UGVs,10.1007/s10514-013-9376-6
+Detection of robustly collision-free trajectories in unpredictable environments in real-time,10.1007/s10514-013-9377-5
+A comparison of learning strategies for biologically constrained development of gaze control on an iCub robot,10.1007/s10514-013-9378-4
+Object segmentation in cluttered and visually complex environments,10.1007/s10514-013-9381-9
+Visual navigation of wheeled mobile robots using direct feedback of a geometric constraint,10.1007/s10514-014-9382-3
+Autonomous robotic capture of non-cooperative target using visual servoing and motion predictive control,10.1007/s10514-014-9383-2
+Discovering relevant task spaces using inverse feedback control,10.1007/s10514-014-9384-1
+Sparse pose manifolds,10.1007/s10514-014-9388-x
+Human-inspired force compliant grasping primitives,10.1007/s10514-014-9389-9
+Fast RGB-D people tracking for service robots,10.1007/s10514-014-9385-0
+Feature based graph-SLAM in structured environments,10.1007/s10514-014-9386-z
+RMAP: a rectangular cuboid approximation framework for 3D environment mapping,10.1007/s10514-014-9387-y
+Energy-optimal trajectory planning for car-like robots,10.1007/s10514-014-9390-3
+Semantic grasping: planning task-specific stable robotic grasps,10.1007/s10514-014-9391-2
+"Learning object, grasping and manipulation activities using hierarchical HMMs",10.1007/s10514-014-9392-1
+Special issue on robotics: science and systems,10.1007/s10514-014-9416-x
+Multivariate evaluation of interactive robot systems,10.1007/s10514-014-9415-y
+Integrating human observer inferences into robot motion planning,10.1007/s10514-014-9408-x
+"Perceiving, learning, and exploiting object affordances for autonomous pile manipulation",10.1007/s10514-014-9407-y
+Approximate representations for multi-robot control policies that maximize mutual information,10.1007/s10514-014-9411-2
+Goal assignment and trajectory planning for large teams of interchangeable robots,10.1007/s10514-014-9412-1
+From selfish auctioning to incentivized marketing,10.1007/s10514-014-9403-2
+Vol36_2014
+Special issue on autonomous grasping and manipulation,10.1007/s10514-013-9379-3
+Foreword to the special issue on autonomous grasping and manipulation,10.1007/s10514-013-9367-7
+An autonomous manipulation system based on force control and optimization,10.1007/s10514-013-9365-9
+"Model-based autonomous system for performing dexterous, human-level manipulation tasks",10.1007/s10514-013-9371-y
+Learning of grasp selection based on shape-templates,10.1007/s10514-013-9366-8
+Design and control of a three-fingered tendon-driven robotic hand with active and passive tendons,10.1007/s10514-013-9362-z
+A compliant self-adaptive gripper with proprioceptive haptic feedback,10.1007/s10514-013-9360-1
+"A variable compliance, soft gripper",10.1007/s10514-013-9374-8
+An active sensing strategy for contact location without tactile sensors using robot geometry and kinematics,10.1007/s10514-013-9368-6
+Teaching robots to cooperate with humans in dynamic manipulation tasks based on multi-modal human-in-the-loop approach,10.1007/s10514-013-9361-0
+Autonomously learning to visually detect where manipulation will succeed,10.1007/s10514-013-9363-y
+Object search by manipulation,10.1007/s10514-013-9372-x
+Analyzing dexterous hands using a parallel robots framework,10.1007/s10514-013-9380-x
+Scan matching SLAM in underwater environments,10.1007/s10514-013-9345-0
+Direction-changing fall control of humanoid robots: theory and experiments,10.1007/s10514-013-9343-2
+A saliency-driven robotic head with bio-inspired saccadic behaviors for social robotics,10.1007/s10514-013-9346-z
+Anytime merging of appearance-based maps,10.1007/s10514-013-9352-1
+Optimal coverage trajectories for a UGV with tradeoffs for energy and time,10.1007/s10514-013-9348-x
+Socially guided intrinsic motivation for robot learning of motor skills,10.1007/s10514-013-9339-y
+A robust and fast method for 6DoF motion estimation from generalized 3D data,10.1007/s10514-013-9354-z
+Stable grasping under pose uncertainty using tactile feedback,10.1007/s10514-013-9355-y
+Walking in the resonance with the COMAN robot with trajectories based on human kinematic motion primitives (kMPs),10.1007/s10514-013-9357-9
+Intensity-based navigation with global guarantees,10.1007/s10514-013-9356-x
+Efficient complete coverage of a known arbitrary environment with applications to aerial operations,10.1007/s10514-013-9364-x
+Target following with motion prediction for unmanned surface vehicle operating in cluttered environments,10.1007/s10514-013-9370-z
+Vol35_2013
+Walking pattern generation for a humanoid robot with compliant joints,10.1007/s10514-013-9330-7
+Adaptive splitbelt treadmill walking of a biped robot using nonlinear oscillators with phase resetting,10.1007/s10514-013-9331-6
+Path planning for grasping operations using an adaptive PCA-based sampling method,10.1007/s10514-013-9332-5
+"Observer based biped walking control, a sensor fusion approach",10.1007/s10514-013-9333-4
+Probabilistically safe motion planning to avoid dynamic obstacles with uncertain motion patterns,10.1007/s10514-013-9334-3
+A biologically constrained architecture for developmental learning of eye–head gaze control on a humanoid robot,10.1007/s10514-013-9335-2
+Optimal spatial formation of swarm robotic gas sensors in odor plume finding,10.1007/s10514-013-9336-1
+Analysis of adaptive sampling techniques for underwater vehicles,10.1007/s10514-013-9337-0
+Enhanced maximum likelihood grid map with reprocessing incorrect sonar measurements,10.1007/s10514-013-9340-5
+Improving robot manipulation with data-driven object-centric models of everyday forces,10.1007/s10514-013-9344-1
+Centroidal dynamics of a humanoid robot,10.1007/s10514-013-9341-4
+Photometric visual servoing for omnidirectional cameras,10.1007/s10514-013-9342-3
+"Unifying microscopic flocking motion models for virtual, robotic, and biological flock members",10.1007/s10514-013-9338-z
+Multi-observation sensor resetting localization with ambiguous landmarks,10.1007/s10514-013-9347-y
+Special issue on Robotics: Science and Systems,10.1007/s10514-013-9359-7
+"Recognition, prediction, and planning for assisted teleoperation of freeform tasks",10.1007/s10514-013-9350-3
+Frequency-based underwater terrain segmentation,10.1007/s10514-013-9353-0
+An anytime assignment algorithm: From local task swapping to global optimality,10.1007/s10514-013-9351-2
+Towards a swarm of agile micro quadrotors,10.1007/s10514-013-9349-9
+Implementation and stability analysis of prioritized whole-body compliant controllers on a wheeled humanoid robot in uneven terrains,10.1007/s10514-013-9358-8
+Vol34_2013
+Autonomous over-the-horizon navigation using LIDAR data,10.1007/s10514-012-9309-9
+Design of a 3D snapshot based visual flight control system using a single camera in hover,10.1007/s10514-012-9310-3
+Real-time visuomotor update of an active binocular head,10.1007/s10514-012-9311-2
+How to localize humanoids with a single camera?,10.1007/s10514-012-9312-1
+Angle-based homing from a reference image set using the 1D trifocal tensor,10.1007/s10514-012-9313-0
+A vision-based collision avoidance technique for micro air vehicles using local-level frame mapping and path planning,10.1007/s10514-012-9314-z
+Fast motion planning from experience: trajectory prediction for speeding up movement generation,10.1007/s10514-012-9315-y
+Special Issue on Open Source Software-Supported Robotics Research,10.1007/s10514-013-9325-4
+Comparing ICP variants on real-world data sets,10.1007/s10514-013-9327-2
+OpenRatSLAM: an open source brain-based SLAM system,10.1007/s10514-012-9317-9
+An open-source navigation system for micro aerial vehicles,10.1007/s10514-012-9318-8
+OctoMap: an efficient probabilistic 3D mapping framework based on octrees,10.1007/s10514-012-9321-0
+ROS open-source audio recognizer: ROAR environmental sound detection tools for robot programming,10.1007/s10514-013-9323-6
+The ManyEars open framework,10.1007/s10514-012-9316-x
+A new paradigm for open robotics research and education with the C++ OOML,10.1007/s10514-013-9324-5
+Multi-robot repeated area coverage,10.1007/s10514-012-9319-7
+Coordinating heterogeneous teams of robots using temporal symbolic planning,10.1007/s10514-012-9320-1
+VC-method: high-speed navigation of a uniformly braking mobile robot using position-velocity configuration space,10.1007/s10514-013-9322-7
+A leg proprioception based 6 DOF odometry for statically stable walking robots,10.1007/s10514-013-9326-3
+DCOB: Action space for reinforcement learning of high DoF robots,10.1007/s10514-013-9328-1
+Reflexive stability control framework for humanoid robots,10.1007/s10514-013-9329-0
+Vol33_2012
+Special issue on micro-UAV perception and control,10.1007/s10514-012-9295-y
+3-D relative positioning sensor for indoor flying robots,10.1007/s10514-012-9277-0
+PIXHAWK: A micro aerial vehicle design for autonomous flight using onboard computer vision,10.1007/s10514-012-9281-4
+"On the design and development of attitude stabilization, vision-based navigation, and aerial gripping for a low-cost quadrotor",10.1007/s10514-012-9286-z
+Performance benchmarking of quadrotor systems using time-optimal control,10.1007/s10514-012-9282-3
+Adaptive fast open-loop maneuvers for quadrocopters,10.1007/s10514-012-9289-9
+Optimization-based iterative learning for precise quadrocopter trajectory tracking,10.1007/s10514-012-9283-2
+Stability of small-scale UAV helicopters and quadrotors with added payload mass under PID control,10.1007/s10514-012-9280-5
+Trajectory design and control for aggressive formation flight with quadrotors,10.1007/s10514-012-9279-y
+"Real time UAV altitude, attitude and motion estimation from hybrid stereovision",10.1007/s10514-012-9285-0
+Optimal surveillance coverage for teams of micro aerial vehicles in GPS-denied environments using onboard vision,10.1007/s10514-012-9292-1
+"River mapping from a flying robot: state estimation, river detection, and obstacle mapping",10.1007/s10514-012-9293-0
+Guest editorial: special issue on robotics: science and systems,10.1007/s10514-012-9308-x
+A Planning Framework for Non-Prehensile Manipulation under Clutter and Uncertainty,10.1007/s10514-012-9306-z
+Optimal variable stiffness control: formulation and application to explosive movement tasks,10.1007/s10514-012-9302-3
+"Global motion planning under uncertain motion, sensing, and environment map",10.1007/s10514-012-9307-y
+Topological constraints in search-based robot path planning,10.1007/s10514-012-9304-1
+Large-scale multi-robot task allocation via dynamic partitioning and distribution,10.1007/s10514-012-9303-2
+Probabilistic guarantees for high-level robot behavior in the presence of sensor error,10.1007/s10514-012-9301-4
+Construction with quadrotor teams,10.1007/s10514-012-9305-0
+"Robot task plan representation by Petri nets: modelling, identification, analysis and execution",10.1007/s10514-012-9288-x
+Reinforcement learning to adjust parametrized motor primitives to new situations,10.1007/s10514-012-9290-3
+Force feedback exploiting tactile and proximal force/torque sensing,10.1007/s10514-012-9291-2
+A momentum-based balance controller for humanoid robots on non-level and non-stationary ground,10.1007/s10514-012-9294-z
+Localization of a door handle of unknown geometry using a single camera for door-opening with a mobile manipulator,10.1007/s10514-012-9297-9
+A comparison of path planning strategies for autonomous exploration and mapping of unknown environments,10.1007/s10514-012-9298-8
+Distributed orientation agreement in a group of robots,10.1007/s10514-012-9300-5
+Autonomous construction using scarce resources in unknown environments,10.1007/s10514-012-9296-x
+Erratum to: Autonomous construction using scarce resources in unknown environments,10.1007/s10514-012-9299-7
+Vol32_2012
+Target tracking without line of sight using range from radio,10.1007/s10514-011-9239-y
+Artificial potential functions based camera movements and visual behaviors in attentive robots,10.1007/s10514-011-9240-5
+"On responsiveness, safety, and completeness in real-time motion planning",10.1007/s10514-011-9254-z
+Laser-based geometrical modeling of large-scale architectural structures using co-operative multiple robots,10.1007/s10514-011-9256-x
+Multi-robot multiple hypothesis tracking for pedestrian tracking,10.1007/s10514-011-9259-7
+Distributed pursuit-evasion without mapping or global localization via local frontiers,10.1007/s10514-011-9260-1
+Interactive imitation learning of object movement skills,10.1007/s10514-011-9261-0
+Autonomous exploration using rapid perception of low-resolution image information,10.1007/s10514-011-9262-z
+Two-handed gesture recognition and fusion with speech to command a robot,10.1007/s10514-011-9263-y
+Automated synthesis of action selection policies for unmanned vehicles operating in adverse environments,10.1007/s10514-011-9268-6
+Improving odometry using a controlled point laser,10.1007/s10514-011-9272-x
+Guaranteeing motion safety for robots,10.1007/s10514-012-9278-z
+A guaranteed obstacle avoidance guidance system,10.1007/s10514-011-9269-5
+Pareto-optimal coordination of multiple robots with safety guarantees,10.1007/s10514-011-9265-9
+Distributed reactive collision avoidance,10.1007/s10514-011-9267-7
+"Guaranteed infinite horizon avoidance of unpredictable, dynamically constrained obstacles",10.1007/s10514-011-9266-8
+Generalization of the collision cone approach for motion safety in 3-D environments,10.1007/s10514-011-9270-z
+Provably safe navigation for mobile robots with limited field-of-views in dynamic environments,10.1007/s10514-011-9258-8
+Safety assessment of robot trajectories for navigation in uncertain and dynamic environments,10.1007/s10514-011-9257-9
+Guaranteeing functional safety: design for provability and computer-aided verification,10.1007/s10514-011-9271-y
+Motion safety and constraints compatibility for multibody robots,10.1007/s10514-011-9264-x
+PLISS: labeling places using online changepoint detection,10.1007/s10514-012-9273-4
+Analysis of autonomous cooperative assembly using coordination schemes by heterogeneous robots using a control basis approach,10.1007/s10514-012-9274-3
+Decentralized path planning for multi-agent teams with complex constraints,10.1007/s10514-012-9275-2
+Topological map induction using neighbourhood information of places,10.1007/s10514-012-9276-1
+Improving biped walk stability with complementary corrective demonstration,10.1007/s10514-012-9284-1
+A dynamical system approach to realtime obstacle avoidance,10.1007/s10514-012-9287-y
+Vol31_2011
+Myriapod-like ambulation of a segmented microrobot,10.1007/s10514-011-9233-4
+Autonomous motion planning of a hand-arm robotic system based on captured human-like hand postures,10.1007/s10514-011-9232-5
+MACCEPA 2.0: compliant actuator used for energy efficient hopping robot Chobino1D,10.1007/s10514-011-9230-7
+Data-driven grasping,10.1007/s10514-011-9228-1
+Teaching a humanoid robot to draw ‘Shapes’,10.1007/s10514-011-9229-0
+"Towards semi-autonomous operation of under-actuated underwater vehicles: sensor fusion, on-line identification and visual servo control",10.1007/s10514-011-9231-6
+Color-accurate underwater imaging using perceptual adaptive illumination,10.1007/s10514-011-9245-0
+Probabilistic lane estimation for autonomous driving using basis curves,10.1007/s10514-011-9251-2
+Robust grasping under object pose uncertainty,10.1007/s10514-011-9243-2
+On the role of hand synergies in the optimal choice of grasping forces,10.1007/s10514-011-9244-1
+Passive torque regulation in an underactuated flapping wing robotic insect,10.1007/s10514-011-9242-3
+Special issue on selected papers from Robotics: Science and Systems 2010,10.1007/s10514-011-9250-3
+Optimal self assembly of modular manipulators with active and passive modules,10.1007/s10514-011-9236-1
+Incremental kinesthetic teaching of motion primitives using the motion refinement tube,10.1007/s10514-011-9234-3
+Interactive improvisation with a robotic marimba player,10.1007/s10514-011-9237-0
+"Toward simple control for complex, autonomous robotic applications: combining discrete and rhythmic motor primitives",10.1007/s10514-011-9235-2
+Cooperative control of modular space robots,10.1007/s10514-011-9238-z
+Exploration strategies based on multi-criteria decision making for searching environments in rescue operations,10.1007/s10514-011-9249-9
+A Bayesian nonparametric approach to modeling motion patterns,10.1007/s10514-011-9248-x
+Spatial approaches to broadband jamming in heterogeneous mobile networks: a game-theoretic approach,10.1007/s10514-011-9253-0
+Tracking an omnidirectional evader with a differential drive robot,10.1007/s10514-011-9246-z
+A Mixed Integer Linear Programming approach to pursuit evasion problems with optional connectivity constraints,10.1007/s10514-011-9247-y
+Algorithms and complexity results for graph-based pursuit evasion,10.1007/s10514-011-9255-y
+Search and pursuit-evasion in mobile robotics,10.1007/s10514-011-9241-4
+Guest editorial: special issue on search and pursuit-evasion with mobile robots,10.1007/s10514-011-9252-1
+Vol30_2011
+Special issue on selected papers from Robotics: Science and Systems 2009,10.1007/s10514-010-9214-z
+Learning GP-BayesFilters via Gaussian process latent variable models,10.1007/s10514-010-9213-0
+Large scale graph-based SLAM using aerial images as prior information,10.1007/s10514-010-9204-1
+Time-extended multi-robot coordination for domains with intra-path constraints,10.1007/s10514-010-9202-3
+Setpoint regulation for stochastically interacting robots,10.1007/s10514-010-9203-2
+Cooperative manipulation and transportation with aerial robots,10.1007/s10514-010-9205-0
+Human motion database with a binary tree and node transition graphs,10.1007/s10514-010-9206-z
+Observability-based consistent EKF estimators for multi-robot cooperative localization,10.1007/s10514-010-9207-y
+"Generation of bipedal walking through interactions among the robot dynamics, the oscillator dynamics, and the environment: Stability characteristics of a five-link planar biped robot",10.1007/s10514-010-9209-9
+A Midsummer Night’s Dream (with flying robots),10.1007/s10514-010-9210-3
+Learning the behavior model of a robot,10.1007/s10514-010-9212-1
+A new multi-criteria optimization strategy for shared control in wheelchair assisted navigation,10.1007/s10514-010-9211-2
+High-speed and energy-efficient biped locomotion based on Virtual Slope Walking,10.1007/s10514-010-9201-4
+Control of underactuated planar pronking through an embedded spring-mass Hopper template,10.1007/s10514-010-9216-x
+Real-time behavior-based robot control,10.1007/s10514-010-9215-y
+Integrating planning and control for single-bodied wheeled mobile robots,10.1007/s10514-011-9217-4
+Reflections on iCODE: using web technology and hands-on projects to engage urban youth in computer science and engineering,10.1007/s10514-011-9218-3
+Odor source localization using a mobile robot in outdoor airflow environments with a particle filter algorithm,10.1007/s10514-011-9219-2
+Vision-based exponential stabilization of mobile robots,10.1007/s10514-011-9220-9
+Spectral registration of noisy sonar data for underwater 3D mapping,10.1007/s10514-011-9221-8
+Haar invariant signatures and spatial recognition using omnidirectional visual information only,10.1007/s10514-011-9222-7
+"Adaptive walking pattern generation and balance control of the passenger-carrying biped robot, HUBO FX-1, for variable passenger weights",10.1007/s10514-011-9227-2
+Universally manipulable body models—dual quaternion representations in layered and dynamic MMCs,10.1007/s10514-011-9226-3
+Arbitrarily shaped formations of mobile robots: artificial potential fields and coordinate transformation,10.1007/s10514-011-9225-4
+Autonomous topological modeling of a home environment and topological localization using a sonar grid map,10.1007/s10514-011-9223-6
+Mobility characterization for autonomous mobile robots using machine learning,10.1007/s10514-011-9224-5
+Vol29_2010
+Robust mobile robot localization in highly non-static environments,10.1007/s10514-010-9184-1
+"Unmanned aerial vehicles UAVs attitude, height, motion estimation and control using visual systems",10.1007/s10514-010-9183-2
+Planning and control of under-actuated mobile manipulators using differential flatness,10.1007/s10514-010-9185-0
+Systems and algorithms for autonomous and scalable crowd surveillance using robotic PTZ cameras assisted by a wide-angle camera,10.1007/s10514-010-9188-x
+A novel trigger-based method for hydrothermal vents prospecting using an autonomous underwater robot,10.1007/s10514-010-9187-y
+A path following algorithm for mobile robots,10.1007/s10514-010-9182-3
+GSST: anytime guaranteed search,10.1007/s10514-010-9189-9
+Passive joint stiffness in the hip and knee increases the energy efficiency of leg swinging,10.1007/s10514-010-9186-z
+Efficient vision-based navigation,10.1007/s10514-010-9190-3
+Representing and evaluating ultrasonic maps using active snake contours and Kohonen’s self-organizing feature maps,10.1007/s10514-010-9181-4
+Finding and transferring policies using stored behaviors,10.1007/s10514-010-9191-2
+"Reliable non-prehensile door opening through the combination of vision, tactile and force feedback",10.1007/s10514-010-9192-1
+Track-based self-supervised classification of dynamic obstacles,10.1007/s10514-010-9193-0
+Constrained and quantized Kalman filtering for an RFID robot localization problem,10.1007/s10514-010-9194-z
+Three 2D-warping schemes for visual robot navigation,10.1007/s10514-010-9195-y
+A biomimetic approach to inverse kinematics for a redundant robot arm,10.1007/s10514-010-9196-x
+Exploiting social partners in robot learning,10.1007/s10514-010-9197-9
+Attractor dynamics approach to formation control: theory and application,10.1007/s10514-010-9198-8
+Using efference copy and a forward internal model for adaptive biped walking,10.1007/s10514-010-9199-7
+A provably complete exploration strategy by constructing Voronoi diagrams,10.1007/s10514-010-9200-5
+A terrain-following control approach for a VTOL Unmanned Aerial Vehicle using average optical flow,10.1007/s10514-010-9208-x
+Vol28_2010
+An autonomous mobile manipulator for assembly tasks,10.1007/s10514-009-9142-y
+Elastic roadmaps—motion generation for autonomous mobile manipulation,10.1007/s10514-009-9151-x
+A framework for compliant physical interaction,10.1007/s10514-009-9145-8
+Pivoting based manipulation by a humanoid robot,10.1007/s10514-009-9143-x
+Contact sensing and grasping performance of compliant hands,10.1007/s10514-009-9144-9
+EL-E: an assistive mobile manipulator that autonomously fetches objects from flat surfaces,10.1007/s10514-009-9148-5
+Generality and legibility in mobile manipulation,10.1007/s10514-009-9152-9
+HERB: a home exploring robotic butler,10.1007/s10514-009-9160-9
+Guest editorial: special issue on autonomous mobile manipulation,10.1007/s10514-009-9147-6
+Accurate tracking of legged robots on natural terrain,10.1007/s10514-009-9165-4
+Experimental test of a robust formation controller for marine unmanned surface vessels,10.1007/s10514-009-9163-6
+A quantitative assessment of structural errors in grid maps,10.1007/s10514-009-9159-2
+3D mapping with multi-resolution occupied voxel lists,10.1007/s10514-009-9158-3
+Reactive direction control for a mobile robot: a locust-like control of escape direction emerges when a bilateral pair of model locust visual neurons are integrated,10.1007/s10514-009-9157-4
+Self-assembly and self-repair of arbitrary shapes by a swarm of reactive robots: algorithms and simulations,10.1007/s10514-009-9162-7
+Guest editorial: special issue on control of locomotion—from animals to robots,10.1007/s10514-010-9178-z
+CPG-based control of a turtle-like underwater vehicle,10.1007/s10514-009-9169-0
+Generating gaits for snake robots: annealed chain fitting and keyframe wave extraction,10.1007/s10514-009-9175-2
+Adaptive creeping locomotion of a CPG-controlled snake-like robot to environment change,10.1007/s10514-009-9168-1
+Steerable miniature jumping robot,10.1007/s10514-009-9173-4
+Pneumatic-driven jumping robot with anthropomorphic muscular skeleton structure,10.1007/s10514-009-9171-6
+Creating and modulating rhythms by controlling the physics of the body,10.1007/s10514-009-9176-1
+Integration of posture and rhythmic motion controls in quadrupedal dynamic walking using phase modulations based on leg loading/unloading,10.1007/s10514-009-9172-5
+Minimalistic control of biped walking in rough terrain,10.1007/s10514-009-9174-3
+From human to humanoid locomotion—an inverse optimal control approach,10.1007/s10514-009-9170-7
+Sampling-based finger gaits planning for multifingered robotic hand,10.1007/s10514-009-9164-5
+Effects of anticipatory perceptual simulation on practiced human-robot tasks,10.1007/s10514-009-9166-3
+Computationally efficient solutions for tracking people with a mobile robot: an experimental evaluation of Bayesian filters,10.1007/s10514-009-9167-2
+Self-assembly strategies in a group of autonomous mobile robots,10.1007/s10514-010-9177-0
+Ground adaptive and optimized locomotion of snake robot moving with a novel gait,10.1007/s10514-010-9179-y
+Musical-based interaction system for the Waseda Flutist Robot,10.1007/s10514-010-9180-5
+Vol27_2009
+"Guest editorial: Special issue on robot learning, Part A",10.1007/s10514-009-9122-2
+On-line learning and modulation of periodic movements with nonlinear dynamical systems,10.1007/s10514-009-9118-y
+Learning to search: Functional gradient techniques for imitation learning,10.1007/s10514-009-9121-3
+Reinforcement learning for robot soccer,10.1007/s10514-009-9120-4
+GP-BayesFilters: Bayesian filtering using Gaussian process prediction and observation models,10.1007/s10514-009-9119-x
+"Guest editorial: Special issue on robot learning, Part B",10.1007/s10514-009-9131-1
+A Bayesian exploration-exploitation approach for optimal online sensing and planning with a visually guided mobile robot,10.1007/s10514-009-9130-2
+A novel method for learning policies from variable constraint data,10.1007/s10514-009-9129-8
+Learning model-free robot control by a Monte Carlo EM algorithm,10.1007/s10514-009-9132-0
+Nonparametric representation of an approximated Poincaré map for learning biped locomotion,10.1007/s10514-009-9133-z
+"A biomimetic, force-field based computational model for motion planning and bimanual coordination in humanoid robots",10.1007/s10514-009-9127-x
+A framework for the control of stable aperiodic walking in underactuated planar bipeds,10.1007/s10514-009-9126-y
+Optima localization by vehicle formations imitating the Nelder-Mead simplex algorithm,10.1007/s10514-009-9124-0
+Discovery of sound sources by an autonomous mobile robot,10.1007/s10514-009-9123-1
+Vision-based control of near-obstacle flight,10.1007/s10514-009-9139-6
+Erratum to: Implementation of wide-field integration of optic flow for autonomous quadrotor navigation,10.1007/s10514-009-9154-7
+Implementation of wide-field integration of optic flow for autonomous quadrotor navigation,10.1007/s10514-009-9140-0
+"An adaptive vision-based autopilot for mini flying machines guidance, navigation and control",10.1007/s10514-009-9135-x
+Guest editorial: Visual guidance systems for small Unmanned Aerial Vehicles,10.1007/s10514-009-9128-9
+Online world modeling and path planning for an unmanned helicopter,10.1007/s10514-009-9134-y
+A methodology for design and analysis of cooperative behaviors with mobile robots,10.1007/s10514-009-9125-z
+Performance evaluation of pure-motion tasks for mobile robots with respect to world models,10.1007/s10514-009-9150-y
+Evaluating maps produced by urban search and rescue robots: lessons learned from RoboCup,10.1007/s10514-009-9141-z
+Using virtual scans for improved mapping and evaluation,10.1007/s10514-009-9149-4
+"Iterated D-SLAM map joining: evaluating its performance in terms of consistency, accuracy and efficiency",10.1007/s10514-009-9153-8
+On measuring the accuracy of SLAM algorithms,10.1007/s10514-009-9155-6
+Robust vision-based robot localization using combinations of local feature region detectors,10.1007/s10514-009-9136-9
+Rawseeds ground truth collection systems for indoor self-localization and mapping,10.1007/s10514-009-9156-5
+A collection of outdoor robotic datasets with centimeter-accuracy ground truth,10.1007/s10514-009-9138-7
+An insightful comparison between experiments in mobile robotics and in science,10.1007/s10514-009-9137-8
+Guest editorial: Special issue on characterizing mobile robot localization and mapping,10.1007/s10514-009-9146-7
+Vol26_2009
+Asymmetric trajectory generation and impedance control for running of biped robots,10.1007/s10514-008-9106-7
+The sensory ego-sphere: a mediating interface between sensors and cognition,10.1007/s10514-008-9098-3
+Evolved swarming without positioning information: an application in aerial communication relay,10.1007/s10514-008-9104-9
+Classification-based wheel slip detection and detector fusion for mobile robots on outdoor terrain,10.1007/s10514-008-9105-8
+Multi-robot deployment and coordination with Embedded Graph Grammars,10.1007/s10514-008-9107-6
+Guest editorial: selected papers from Robotics: Science and Systems 2008,10.1007/s10514-009-9116-0
+Finding multiple lanes in urban road networks with vision and lidar,10.1007/s10514-009-9113-3
+Model based vehicle detection and tracking for autonomous urban driving,10.1007/s10514-009-9115-1
+Classifying dynamic objects,10.1007/s10514-009-9112-4
+A generative framework for fast urban labeling using spatial and temporal context,10.1007/s10514-009-9110-6
+Clustering sensor data for autonomous terrain identification using time-dependency,10.1007/s10514-009-9114-2
+Learning gas distribution models using sparse Gaussian process mixtures,10.1007/s10514-009-9111-5
+On the use of likelihood fields to perform sonar scan matching localization,10.1007/s10514-009-9108-0
+Contact type dependency of texture classification in a whiskered mobile robot,10.1007/s10514-009-9109-z
+Maneuvering and control of a biomimetic autonomous underwater vehicle,10.1007/s10514-009-9117-z
+Vol25_2008
+Bio-inspired sensory-motor coordination,10.1007/s10514-008-9087-6
+Controlling swimming and crawling in a fish robot using a central pattern generator,10.1007/s10514-007-9071-6
+Walking up and down hill with a biologically-inspired postural reflex in a quadrupedal robot,10.1007/s10514-007-9072-5
+On the nonholonomic nature of human locomotion,10.1007/s10514-007-9075-2
+Bioinspired velocity control of fast gaze shifts on a robotic anthropomorphic head,10.1007/s10514-007-9078-z
+Biologically-inspired 3D grasp synthesis based on visual exploration,10.1007/s10514-008-9086-7
+Reaching with multi-referential dynamical systems,10.1007/s10514-007-9070-7
+A bio-inspired predictive sensory-motor coordination scheme for robot reaching and preshaping,10.1007/s10514-007-9065-4
+A vision-based autopilot for a miniature air vehicle: joint speed control and lateral obstacle avoidance,10.1007/s10514-007-9069-0
+Reactive navigation through multiscroll systems: from theory to real-time implementation,10.1007/s10514-007-9068-1
+Biologically-inspired robot spatial cognition based on rat neurophysiological studies,10.1007/s10514-007-9074-3
+Trophallaxis within a robotic swarm: bio-inspired communication among robots in a swarm,10.1007/s10514-007-9073-4
+Design and control of a heavy material handling manipulator for agricultural robots,10.1007/s10514-008-9090-y
+RoadCompass: following rural roads with vision + ladar using vanishing point tracking,10.1007/s10514-008-9091-x
+Modeling dynamic scenarios for local sensor-based motion planning,10.1007/s10514-008-9092-9
+Indoor navigation of a non-holonomic mobile robot using a visual memory,10.1007/s10514-008-9093-8
+"Visual-model-based, real-time 3D pose tracking for autonomous navigation: methodology and experiments",10.1007/s10514-008-9094-7
+Geodesic Gaussian kernels for value function approximation,10.1007/s10514-008-9095-6
+Fast and accurate map merging for multi-robot systems,10.1007/s10514-008-9097-4
+Self-organized adaptive legged locomotion in a compliant quadruped robot,10.1007/s10514-008-9099-2
+Design and control of a planar bipedal robot ERNIE with parallel knee compliance,10.1007/s10514-008-9096-5
+"Basic navigation, guidance and control of an Unmanned Surface Vehicle",10.1007/s10514-008-9100-0
+An autonomous educational mobile robot mediator,10.1007/s10514-008-9101-z
+A multimode navigation system for an assistive robotics project,10.1007/s10514-008-9102-y
+A pragmatic approach to dimensional analysis for mobile robotic programming,10.1007/s10514-008-9103-x
+Appearance-based mapping using minimalistic sensor models,10.1007/s10514-008-9085-8
+A unifying framework for robot control with redundant DOFs,10.1007/s10514-007-9051-x
+A line feature based SLAM with low grade range sensors using geometric constraints and active exploration for mobile robot,10.1007/s10514-007-9050-y
+Extending obstacle avoidance methods through multiple parameter-space transformations,10.1007/s10514-007-9062-7
+Fault detection in autonomous robots based on fault injection and learning,10.1007/s10514-007-9060-9
+Learning traversability models for autonomous mobile vehicles,10.1007/s10514-007-9063-6
+Model-based control architecture for attentive robots in rescue scenarios,10.1007/s10514-007-9055-6
+Guest editorial: special issue on socially assistive robotics,10.1007/s10514-007-9059-2
+Controller design for human-robot interaction,10.1007/s10514-007-9054-7
+Human friendship estimation model for communication robots,10.1007/s10514-007-9052-9
+Exploring the use of a mobile robot as an imitation agent with children with low-functioning autism,10.1007/s10514-007-9056-5
+"Avoiding the uncanny valley: robot appearance, personality and consistency of behavior in an attention-seeking home scenario for a robot companion",10.1007/s10514-007-9058-3
+Mobile manipulators for assisted living in residential settings,10.1007/s10514-007-9061-8
+User-adapted plan recognition and user-adapted shared control: A Bayesian approach to semi-autonomous wheelchair driving,10.1007/s10514-007-9064-5
+Dealing with internal and external perturbations on walking robots,10.1007/s10514-007-9079-y
+Appearance-based mapping using minimalistic sensor models,10.1007/s10514-007-9067-2
+Vol24_2008
+A unifying framework for robot control with redundant DOFs,10.1007/s10514-007-9051-x
+A line feature based SLAM with low grade range sensors using geometric constraints and active exploration for mobile robot,10.1007/s10514-007-9050-y
+Extending obstacle avoidance methods through multiple parameter-space transformations,10.1007/s10514-007-9062-7
+Fault detection in autonomous robots based on fault injection and learning,10.1007/s10514-007-9060-9
+Learning traversability models for autonomous mobile vehicles,10.1007/s10514-007-9063-6
+Model-based control architecture for attentive robots in rescue scenarios,10.1007/s10514-007-9055-6
+Guest editorial: special issue on socially assistive robotics,10.1007/s10514-007-9059-2
+Controller design for human-robot interaction,10.1007/s10514-007-9054-7
+Human friendship estimation model for communication robots,10.1007/s10514-007-9052-9
+Exploring the use of a mobile robot as an imitation agent with children with low-functioning autism,10.1007/s10514-007-9056-5
+"Avoiding the uncanny valley: robot appearance, personality and consistency of behavior in an attention-seeking home scenario for a robot companion",10.1007/s10514-007-9058-3
+Mobile manipulators for assisted living in residential settings,10.1007/s10514-007-9061-8
+User-adapted plan recognition and user-adapted shared control: A Bayesian approach to semi-autonomous wheelchair driving,10.1007/s10514-007-9064-5
+Dealing with internal and external perturbations on walking robots,10.1007/s10514-007-9079-y
+Appearance-based mapping using minimalistic sensor models,10.1007/s10514-007-9067-2
+Design and evaluation of a reactive and deliberative collision avoidance and escape architecture for autonomous robots,10.1007/s10514-007-9053-8
+Uncertainty and imprecision modeling for the mobile robot localization problem,10.1007/s10514-007-9066-3
+Scanning and tracking with independent cameras—a biologically motivated approach based on model predictive control,10.1007/s10514-007-9057-4
+Top-down vs bottom-up methodologies in multi-agent system design,10.1007/s10514-007-9080-5
+A practical approach for EKF-SLAM in an indoor environment: fusing ultrasonic sensors and stereo camera,10.1007/s10514-007-9083-2
+Frequency response method for terrain classification in autonomous ground vehicles,10.1007/s10514-007-9077-0
+A bacterial colony growth algorithm for mobile robot localization,10.1007/s10514-007-9076-1
+An efficient system for combined route traversal and collision avoidance,10.1007/s10514-007-9082-3
+Dynamic space reconfiguration for Bayesian search and tracking with moving targets,10.1007/s10514-007-9081-4
+Active audition using the parameter-less self-organising map,10.1007/s10514-008-9084-9
+Development of a compliance controller to reduce energy consumption for bipedal robots,10.1007/s10514-008-9088-5
+"Systems, control models, and codec for collaborative observation of remote environments with an autonomous networked robotic camera",10.1007/s10514-008-9089-4
+Vol23_2007
+Editorial,10.1007/s10514-007-9039-6
+Independent traction control for uneven terrain using stick-slip phenomenon: application to a stair climbing robot,10.1007/s10514-007-9027-x
+An integrated particle filter and potential field method applied to cooperative multi-robot target tracking,10.1007/s10514-007-9028-9
+Adaptive behavior in turning of an oscillator-driven biped robot,10.1007/s10514-007-9029-8
+Linear estimation of the physical odometric parameters for differential-drive mobile robots,10.1007/s10514-007-9030-2
+Mobile robot team forming for crystallization of proteins,10.1007/s10514-007-9031-1
+Socially distributed perception: GRACE plays social tag at AAAI 2005,10.1007/s10514-007-9033-z
+Editorial,10.1007/s10514-007-9048-5
+Hybrid image plane/stereo (HIPS) manipulation for robotic space applications,10.1007/s10514-007-9032-0
+A comparison of line extraction algorithms using 2D range data for indoor mobile robotics,10.1007/s10514-007-9034-y
+Guiding robots’ behaviors using pheromone communication,10.1007/s10514-007-9035-x
+Analysis results and tools for the control of planar bipedal gaits using hybrid zero dynamics,10.1007/s10514-007-9036-9
+Numerical comparison of steering geometries for robotic vehicles by modeling positioning error,10.1007/s10514-007-9037-8
+Structure-based color learning on a mobile robot under changing illumination,10.1007/s10514-007-9038-7
+Metric embedding of view-graphs,10.1007/s10514-007-9040-0
+Vision-based motion planning for an autonomous motorcycle on ill-structured roads,10.1007/s10514-007-9042-y
+Analysis of wave gaits for energy efficiency,10.1007/s10514-007-9041-z
+Visual homing in environments with anisotropic landmark distribution,10.1007/s10514-007-9043-x
+Improving walking-robot performances by optimizing leg distribution,10.1007/s10514-007-9045-8
+Behaviors for physical cooperation between robots for mobility improvement,10.1007/s10514-007-9044-9
+Environment adaptation of a new staircase-climbing wheelchair,10.1007/s10514-007-9047-6
+Map building through pseudo dense scan matching using visual sonar data,10.1007/s10514-007-9046-7
+Guidance of a mobile robot using an array of static cameras located in the environment,10.1007/s10514-007-9049-4
+Vol22_2007
+A humanoid robot that pretends to listen to route guidance from a human,10.1007/s10514-006-9007-6
+Development of the multi-functional indoor service robot PSR systems,10.1007/s10514-006-9001-z
+The DARPA PerceptOR evaluation experiments,10.1007/s10514-006-9000-0
+Distributed shape control of homogeneous swarms of autonomous underwater vehicles,10.1007/s10514-006-9002-y
+Behavioral overlays for non-verbal communication expression on a humanoid robot,10.1007/s10514-006-9005-8
+Simultaneous localization and odometry self calibration for mobile robot,10.1007/s10514-006-9006-7
+Development environments for autonomous mobile robots: A survey,10.1007/s10514-006-9013-8
+Relative positioning for team robot navigation,10.1007/s10514-006-9021-8
+Pre-collision safety strategies for human-robot interaction,10.1007/s10514-006-9009-4
+Theory and experiments in SmartNav rover navigation,10.1007/s10514-006-9011-x
+Robotic smart house to assist people with movement disabilities,10.1007/s10514-006-9012-9
+Human-robot cooperation control for installing heavy construction materials,10.1007/s10514-006-9722-z
+Guest editorial,10.1007/s10514-007-9026-y
+Construction robotics,10.1007/s10514-006-9008-5
+NIST research in autonomous construction,10.1007/s10514-006-9003-x
+Safe and effective navigation of autonomous robots in hazardous environments,10.1007/s10514-006-9721-0
+Methodology for the kinematical selection of a manipulator for a specified task,10.1007/s10514-006-9004-9
+Locating sensor nodes on construction projects,10.1007/s10514-006-9720-1
+MFR (Multipurpose Field Robot) for installing construction materials,10.1007/s10514-006-9022-7
+Development of the curtain wall installation robot: Performance and efficiency tests at a construction site,10.1007/s10514-006-9019-2
+Enabling e-business tools and robotics technology for teleconstruction,10.1007/s10514-006-9010-y
+Introduction to the special issue on the science behind embodied AI : The robots of the AAAI competition and exhibition,10.1007/s10514-007-9025-z
+Scarecrow: If I only had AI,10.1007/s10514-006-9017-4
+Rescuing interfaces: A multi-year study of human-robot interaction at the AAAI Robot Rescue Competition,10.1007/s10514-006-9016-5
+Building robot systems to interact with people in real environments,10.1007/s10514-006-9020-9
+Spartacus attending the 2005 AAAI conference,10.1007/s10514-006-9014-7
+Socially Distributed Perception: GRACE plays social tag at AAAI 2005,10.1007/s10514-006-9015-6
+Using a hand-drawn sketch to control a team of robots,10.1007/s10514-007-9023-1
+First steps toward natural human-like HRI,10.1007/s10514-006-9018-3
+Dual-coding representations for robot vision programming in Tekkotsu,10.1007/s10514-007-9024-0
+Vol21_2006
+How a mobile robot selects landmarks to make a decision based on an information criterion,10.1007/s10514-005-5557-2
+Information based indoor environment robotic exploration and modeling using 2-D images and graphs,10.1007/s10514-005-6066-z
+Robot-assisted wayfinding for the visually impaired in structured indoor environments,10.1007/s10514-006-7223-8
+Mobile robot interception using human navigational principles: Comparison of active versus passive tracking algorithms,10.1007/s10514-006-8487-8
+Visual wheel sinkage measurement for planetary rover mobility characterization,10.1007/s10514-006-7230-9
+A purely reactive navigation scheme for dynamic environments using Case-Based Reasoning,10.1007/s10514-006-7231-8
+High accuracy path tracking for vehicles in presence of sliding: Application to farm vehicle automatic guidance for agricultural tasks,10.1007/s10514-006-7806-4
+Treemap: An O(log n) algorithm for indoor simultaneous localization and mapping,10.1007/s10514-006-9043-2
+Detection of doors using a genetic visual fuzzy system for mobile robots,10.1007/s10514-006-7847-8
+Relative localization using path odometry information,10.1007/s10514-006-6474-8
+Development of a biomimetic miniature robotic crawler,10.1007/s10514-006-7846-9
+Design of the ATRON lattice-based self-reconfigurable robot,10.1007/s10514-006-8546-1
+Energetically autonomous robots: Food for thought,10.1007/s10514-006-6574-5
+Equilibrium analysis of multi-limbs walking and climbing robots,10.1007/s10514-006-7275-9
+Safety measures for terrain classification and safest site selection,10.1007/s10514-006-9716-x
+A kinematically compatible framework for cooperative payload transport by nonholonomic mobile manipulators,10.1007/s10514-005-9717-9
+Flying over the reality gap: From simulated to real indoor airships,10.1007/s10514-006-9718-8
+Area measurement of large closed regions with a mobile robot,10.1007/s10514-006-9719-7
+Vol20_2006
+Stair Climber Smart Mobile Robot (MSRox),10.1007/s10514-006-5364-4
+Analysis of Creeping Locomotion of a Snake-like Robot on a Slope,10.1007/s10514-006-5204-6
+A Discussion of Simultaneous Localization and Mapping,10.1007/s10514-006-5735-x
+Abstracting Vehicle Shape and Kinematic Constraints from Obstacle Avoidance Methods,10.1007/s10514-006-5363-5
+APES: Attentively Perceiving Robot,10.1007/s10514-006-5538-0
+Self-sustaining robotic systems,10.1007/s10514-006-7535-8
+Game theory basis for control of long-lived lunar/planetary surface robots,10.1007/s10514-006-5940-7
+A control-design-based solution to robotic ecology: Autonomy of achieving cooperative behavior from a high-level astronaut command,10.1007/s10514-006-5942-5
+Sustainable cooperative robotic technologies for human and robotic outpost infrastructure construction and maintenance,10.1007/s10514-006-5943-4
+Issues in the scaling of multi-robot systems for general problem solving,10.1007/s10514-006-5939-0
+Sustainable polymorphic colonial robotics and large scale off-world construction,10.1007/s10514-006-5936-3
+Innately adaptive robotics through embodied evolution,10.1007/s10514-006-5941-6
+Multimode locomotion via SuperBot reconfigurable robots,10.1007/s10514-006-6475-7
+Mobile robot olfaction,10.1007/s10514-006-7536-7
+A biomimetic robot for tracking specific odors in turbulent plumes,10.1007/s10514-006-7157-1
+An artificial moth: Chemical source localization using a robot based neuronal model of moth optomotor anemotactic search,10.1007/s10514-006-7101-4
+Using naïve physics for odor localization in a cluttered indoor environment,10.1007/s10514-006-7102-3
+Mobile robot navigation using vision and olfaction to search for a gas/odor source,10.1007/s10514-006-7100-5
+"Smell, think and act: A cognitive robot discriminating odours",10.1007/s10514-006-7098-8
+Olfactory coordinated area coverage,10.1007/s10514-006-7099-7
+A systematic approach to the problem of odour source localisation,10.1007/s10514-006-7414-3
+Particle swarm-based olfactory guided search,10.1007/s10514-006-7567-0

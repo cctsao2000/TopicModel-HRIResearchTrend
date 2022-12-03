@@ -1,0 +1,27 @@
+Behaviour & Information Technology 
+https://www.tandfonline.com/loi/tbit20
+2006-2021 journals
+網址規律
+https://www.tandfonline.com/toc/tbit20/ +(volume 25-40)+ /(issue 1-12)?nav=tocList
+每年的issue數量
+volume 37 有一期是issue 10-11 所以做特殊處理
+from volume 40~25
+issues = [8,12,12,0,12,12,12,12,12,12,6,6,6,6,6,6]
+共1272篇
+
+2-59
+60-139
+140-235
+236-321
+322-419
+420-523
+524-631
+632-746
+747-859
+860-952
+953-1025
+1026-1082
+1083-1128
+1129-1180
+1181-1231
+1232-1273
